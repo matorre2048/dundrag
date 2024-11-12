@@ -43,7 +43,7 @@ As a Barbarian, you gain the following class features when you reach the specifi
 |  18   |        +6         | Indomitable Might                                                              |   6   |     +4      |       4        |
 |  19   |        +6         | Epic Boon                                                                      |   6   |     +4      |       4        |
 |  20   |        +6         | Primal Champion                                                                |   6   |     +4      |       4        |
-##### Barbarian Class Features
+#### Barbarian Class Features
 ###### Level 1: Rage
 You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a Bonus Action if you aren't wearing Heavy armor.
 You can enter your Rage the number of times shown for your Barbarian level in the Rages column of the Barbarian Features table. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
@@ -88,21 +88,37 @@ Hamstring Blow. The target's Speed is reduced by 15 feet until the start of your
 
 
 
-#### Barbarian Subclasses
+## Barbarian Subclasses
 
-##### Path of the Berserker
+### Path of the Berserker
 *Channel Rage into Violent Fury*
 Barbarians who walk the Path of the Berserker direct their Rage primarily toward violence. Their path is one of untrammeled fury, and they thrill in the chaos of battle as they allow their Rage to seize and empower them. 
 ###### Level 3: Frenzy
 If you use Reckless Attack while your Rage is active, you deal extra damage to the first target you hit on your turn with a Strength-based attack. To determine the extra damage, roll a number of d6s equal to your Rage damage bonus, and add them together. The damage has the same type as the weapon or Unarmed Strike used for the attack.
 
-##### Path of the Wild Heart
+### Path of the Wild Heart
 *Walk in Community with the Animal World*
 Barbarians who follow the Path of the Wild Heart view themselves as kin to animals. These Barbarians learn magical means to communicate with animals, and their Rage heightens their connection to animals as it fills them with supernatural might.
-###### Level 3: Animal Speaker
+#### Level 3: Animal Speaker
 You can cast the *Beast Sense* and *Speak with Animals* spells but only as Rituals. Wisdom is your spellcasting ability for them.
-###### Level 3: Rage of the Wilds
+#### Level 3: Rage of the Wilds
 Your Rage taps into the primal power of animals. Whenever you activate your Rage, you gain one of the following options of your choice.
 ***Bear.*** While your Rage is active, you have resistance to every damage type except Force, Necrotic, Psychic, and Radiant.
 ***Eagle.*** When you activate your Rage, you can take the Disengage and Dash actions as part of that Bonus Action. While your Rage is active, you can take a Bonus Action to take both of those actions.
 ***Wolf.*** While your Rage is active your allies have Advantage on attack rolls against any enemy of yours within 5 feet of you.
+
+### Path of the World Tree
+*Trace the Roots and Branches of the Multiverse*
+![Path of the World Tree.png](/img/user/DATA/Image%20Storage/Path%20of%20the%20World%20Tree.png)
+Barbarians who follow the Path of the World Tree connect with the cosmic tree Yggdrasil through their Rage. This tree grows among the Outer Plains, connecting them to each other and the Material Plane. These Barbarians draw on the tree's magic for vitality and as a means of dimensional travel.
+#### Level 3. Vitality of the Tree
+Your Rage taps into the life force of the World Tree. You gain the following benefits.
+- Vitality Surge. When you activate your Rage, you gain a number of Temporary Hit Points equal to your Barbarian level.
+- Life-Giving Force. At the start of each of your turns while your Rage is active, you can choose another creature within 10 feet of yourself to gain Temporary Hit Points. To determine the number of Temporary Hit Points, roll a number of d6s equal to your Rage Damage bonus, and add them together. If any of these Temporary Hit Points remain when your rage ends, they vanish. 
+#### Level 6. Branches of the Tree
+Whenever a creature you can see starts its turn within 30 feet of you while your Rage is active, you can take a Reaction to summon spectral branches of the World Tree around it. The target must succeed on a Strength saving throw (DC 8 plus your Strength modifier and Proficiency Bonus) or be teleported to an unoccupied space you can see within 5 feet of yourself or in the nearest unoccupied space you can see. After the target teleports, you can reduce its Speed to 0 until the end of the current turn.
+#### Level 10. Battering Roots
+During your turn, your reach is 10 feet greater with any Melee weapon that has the Heavy or Versatile property, as tendrils of the World Tree extend from you. When you hit with such a weapon on your turn, you can activate the Push or Topple mastery property in addition to a different mastery property you're using with that weapon. 
+#### Level 14. Travel Along the Tree
+When you activate your Rage and as a Bonus Action while your Rage is active, you can teleport up to 60 feet to an unoccupied space you can see. 
+In addition, once per Rage, you can increase the range of that teleport to 150 feet. When you do so, you can also bring up to six willing creatures who are within 10 feet of you. Each creature teleports to an unoccupied space of your choice within 10 feet of your destination space. 
