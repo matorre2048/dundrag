@@ -23,41 +23,41 @@ As a Multiclass Character
 # Barbarian Class Features
 As a Barbarian, you gain the following class features when you reach the specified Barbarian levels. Those features are listed in the Barbarian Features table.
 
-| Level | Proficiency Bonus | Class Features                                                                 | Rages | Rage Damage | Weapon Mastery |
-| :---: | :---------------: | ------------------------------------------------------------------------------ | :---: | :---------: | :------------: |
-|   1   |        +2         | [[Classes/Barbarian#Level 1 Rage\|#Level 1 Rage]], [[Classes/Barbarian#Level 1 Unarmored Defense\|#Level 1 Unarmored Defense]], [[Classes/Barbarian#Level 1 Weapon Mastery\|#Level 1 Weapon Mastery]] |   2   |     +2      |       2        |
-|   2   |        +2         | [[Classes/Barbarian#Level 2 Danger Sense\|#Level 2 Danger Sense]], [[Classes/Barbarian#Level 2 Reckless Attack\|#Level 2 Reckless Attack]]                        |   2   |     +2      |       2        |
-|   3   |        +2         | [[Classes/Barbarian#Level 3 Barbarian Subclass\|#Level 3 Barbarian Subclass]], [[Classes/Barbarian#Level 3 Primal Knowledge\|#Level 3 Primal Knowledge]]                 |   3   |     +2      |       2        |
-|   4   |        +2         | Ability Score Improvement                                                      |   3   |     +2      |       3        |
-|   5   |        +3         | [[Classes/Barbarian#Level 5 Extra Attack\|#Level 5 Extra Attack]], [[Classes/Barbarian#Level 5 Fast Movement\|#Level 5 Fast Movement]]                          |   3   |     +2      |       3        |
-|   6   |        +3         | Subclass Feature                                                               |   4   |     +2      |       3        |
-|   7   |        +3         | [[Classes/Barbarian#Level 7 Feral Instinct\|#Level 7 Feral Instinct]], [[Classes/Barbarian#Level 7 Instinctive Pounce\|#Level 7 Instinctive Pounce]]                   |   4   |     +2      |       3        |
-|   8   |        +3         | Ability Score Improvement                                                      |   4   |     +3      |       3        |
-|   9   |        +4         | Brutal Strike                                                                  |   4   |     +3      |       3        |
-|  10   |        +4         | Subclass Feature                                                               |   4   |     +3      |       4        |
-|  11   |        +4         | Relentless Rage                                                                |   4   |     +3      |       4        |
-|  12   |        +4         | Ability Score Improvement                                                      |   5   |     +3      |       4        |
-|  13   |        +5         | Improved Brutal Strike                                                         |   5   |     +3      |       4        |
-|  14   |        +5         | Subclass Feature                                                               |   5   |     +3      |       4        |
-|  15   |        +5         | Persistent Rage                                                                |   5   |     +3      |       4        |
-|  16   |        +5         | Ability Score Improvement                                                      |   5   |     +4      |       4        |
-|  17   |        +6         | Improved Brutal Strike                                                         |   6   |     +4      |       4        |
-|  18   |        +6         | Indomitable Might                                                              |   6   |     +4      |       4        |
-|  19   |        +6         | Epic Boon                                                                      |   6   |     +4      |       4        |
-|  20   |        +6         | Primal Champion                                                                |   6   |     +4      |       4        |
+| Level | Proficiency Bonus | Class Features                                                  | Rages | Rage Damage | Weapon Mastery |
+| :---: | :---------------: | --------------------------------------------------------------- | :---: | :---------: | :------------: |
+|   1   |        +2         | Level 1 Rage, Level 1 Unarmored Defense, Level 1 Weapon Mastery |   2   |     +2      |       2        |
+|   2   |        +2         | Level 2 Danger Sense, Level 2 Reckless Attack                   |   2   |     +2      |       2        |
+|   3   |        +2         | Level 3 Barbarian Subclass, Level 3 Primal Knowledge            |   3   |     +2      |       2        |
+|   4   |        +2         | Ability Score Improvement                                       |   3   |     +2      |       3        |
+|   5   |        +3         | Level 5 Extra Attack, Level 5 Fast Movement                     |   3   |     +2      |       3        |
+|   6   |        +3         | Subclass Feature                                                |   4   |     +2      |       3        |
+|   7   |        +3         | Level 7 Feral Instinct, Level 7 Instinctive Pounce              |   4   |     +2      |       3        |
+|   8   |        +3         | Ability Score Improvement                                       |   4   |     +3      |       3        |
+|   9   |        +4         | Brutal Strike                                                   |   4   |     +3      |       3        |
+|  10   |        +4         | Subclass Feature                                                |   4   |     +3      |       4        |
+|  11   |        +4         | Relentless Rage                                                 |   4   |     +3      |       4        |
+|  12   |        +4         | Ability Score Improvement                                       |   5   |     +3      |       4        |
+|  13   |        +5         | Improved Brutal Strike                                          |   5   |     +3      |       4        |
+|  14   |        +5         | Subclass Feature                                                |   5   |     +3      |       4        |
+|  15   |        +5         | Persistent Rage                                                 |   5   |     +3      |       4        |
+|  16   |        +5         | Ability Score Improvement                                       |   5   |     +4      |       4        |
+|  17   |        +6         | Improved Brutal Strike                                          |   6   |     +4      |       4        |
+|  18   |        +6         | Indomitable Might                                               |   6   |     +4      |       4        |
+|  19   |        +6         | Epic Boon                                                       |   6   |     +4      |       4        |
+|  20   |        +6         | Primal Champion                                                 |   6   |     +4      |       4        |
 #### Barbarian Class Features
 ###### Level 1: Rage
 You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a Bonus Action if you aren't wearing Heavy armor.
 You can enter your Rage the number of times shown for your Barbarian level in the Rages column of the Barbarian Features table. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
 While active, your rage follows the rules below
-***Damage Resistance.*** You have resistance to Bludgeoning, Piercing, and Slashing damage.
-***Rage Damage.*** When you make an attack using Strength-with either a weapon or an Unarmed Strike-and deal damage to the target, you gain a bonus to the damage that increases as you gain levels as a Barbarian, as shown in the Rage Damage column of the Barbarian Features table.
-***Strength Advantage.*** You have Advantage on Strength checks and Strength saving throws. 
-***No Concentration or Spells.*** You can't maintain Concentration, and you can't cast spells.
-***Duration.*** The Rage lasts until the end of your next turn, and it ends early if you don Heavy armor or have the Incapacitated condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
-- Make an attack roll against an enemy.
-- Force an enemy to make a saving throw.
-- Take a Bonus Action to extend your rage.
+- ***Damage Resistance.*** You have resistance to Bludgeoning, Piercing, and Slashing damage.
+- ***Rage Damage.*** When you make an attack using Strength-with either a weapon or an Unarmed Strike-and deal damage to the target, you gain a bonus to the damage that increases as you gain levels as a Barbarian, as shown in the Rage Damage column of the Barbarian Features table.
+- ***Strength Advantage.*** You have Advantage on Strength checks and Strength saving throws. 
+- ***No Concentration or Spells.*** You can't maintain Concentration, and you can't cast spells.
+- ***Duration.*** The Rage lasts until the end of your next turn, and it ends early if you don Heavy armor or have the Incapacitated condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
+	- Make an attack roll against an enemy.
+	- Force an enemy to make a saving throw.
+	- Take a Bonus Action to extend your rage.
 Each time the Rage is extended, it lasts until the end of your next turn. You can maintain a Rage for up to 10 minutes.
 ###### Level 1: Unarmored Defense
 While you aren't wearing any armor, your base Armor Class equals 10 plus your Dexterity and Constitution modifiers. You can use a Shield and still gain this benefit.
@@ -115,8 +115,8 @@ Your Rage taps into the primal power of animals. Whenever you activate your Rage
 Barbarians who follow the Path of the World Tree connect with the cosmic tree Yggdrasil through their Rage. This tree grows among the Outer Plains, connecting them to each other and the Material Plane. These Barbarians draw on the tree's magic for vitality and as a means of dimensional travel.
 #### Level 3. Vitality of the Tree
 Your Rage taps into the life force of the World Tree. You gain the following benefits.
-- Vitality Surge. When you activate your Rage, you gain a number of Temporary Hit Points equal to your Barbarian level.
-- Life-Giving Force. At the start of each of your turns while your Rage is active, you can choose another creature within 10 feet of yourself to gain Temporary Hit Points. To determine the number of Temporary Hit Points, roll a number of d6s equal to your Rage Damage bonus, and add them together. If any of these Temporary Hit Points remain when your rage ends, they vanish. 
+- *Vitality Surge.* When you activate your Rage, you gain a number of Temporary Hit Points equal to your Barbarian level.
+- *Life-Giving Force.* At the start of each of your turns while your Rage is active, you can choose another creature within 10 feet of yourself to gain Temporary Hit Points. To determine the number of Temporary Hit Points, roll a number of d6s equal to your Rage Damage bonus, and add them together. If any of these Temporary Hit Points remain when your rage ends, they vanish. 
 #### Level 6. Branches of the Tree
 Whenever a creature you can see starts its turn within 30 feet of you while your Rage is active, you can take a Reaction to summon spectral branches of the World Tree around it. The target must succeed on a Strength saving throw (DC 8 plus your Strength modifier and Proficiency Bonus) or be teleported to an unoccupied space you can see within 5 feet of yourself or in the nearest unoccupied space you can see. After the target teleports, you can reduce its Speed to 0 until the end of the current turn.
 #### Level 10. Battering Roots
