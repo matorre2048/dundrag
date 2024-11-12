@@ -11,14 +11,16 @@
 | Weapon Proficiencies       | Simple and Martial Weapons                                                          |
 | Starting Equipment         | *Choose A or B:* (A) Greataxe, 4 Handaxes, Explorer's Pack, and 15 GP; or (B) 75 GP |
 
-## Becoming a Barbarian...
+# Becoming a Barbarian...
 As a Level 1 Character
 - Gain all the traits in the Core Barbarian Traits table.
 - Gain the Barbarian's level 1 features, which are listed in the Barbarian Features table
+
 As a Multiclass Character
 - Gain the following traits from the Core Barbarian Traits table: Hit Point Die, Proficiency with Martial weapons, and training with Shields.
 - Gain the Barbarian's level 1 features, which are listed in the Barbarian Features table.
-Barbarian Class Features
+
+# Barbarian Class Features
 As a Barbarian, you gain the following class features when you reach the specified Barbarian levels. Those features are listed in the Barbarian Features table.
 
 | Level | Proficiency Bonus | Class Features                                                                 | Rages | Rage Damage | Weapon Mastery |
@@ -88,15 +90,15 @@ Hamstring Blow. The target's Speed is reduced by 15 feet until the start of your
 
 
 
-## Barbarian Subclasses
+# Barbarian Subclasses
 
-### Path of the Berserker
+## Path of the Berserker
 *Channel Rage into Violent Fury*
 Barbarians who walk the Path of the Berserker direct their Rage primarily toward violence. Their path is one of untrammeled fury, and they thrill in the chaos of battle as they allow their Rage to seize and empower them. 
 ###### Level 3: Frenzy
 If you use Reckless Attack while your Rage is active, you deal extra damage to the first target you hit on your turn with a Strength-based attack. To determine the extra damage, roll a number of d6s equal to your Rage damage bonus, and add them together. The damage has the same type as the weapon or Unarmed Strike used for the attack.
 
-### Path of the Wild Heart
+## Path of the Wild Heart
 *Walk in Community with the Animal World*
 Barbarians who follow the Path of the Wild Heart view themselves as kin to animals. These Barbarians learn magical means to communicate with animals, and their Rage heightens their connection to animals as it fills them with supernatural might.
 #### Level 3: Animal Speaker
@@ -107,7 +109,7 @@ Your Rage taps into the primal power of animals. Whenever you activate your Rage
 ***Eagle.*** When you activate your Rage, you can take the Disengage and Dash actions as part of that Bonus Action. While your Rage is active, you can take a Bonus Action to take both of those actions.
 ***Wolf.*** While your Rage is active your allies have Advantage on attack rolls against any enemy of yours within 5 feet of you.
 
-### Path of the World Tree
+## Path of the World Tree
 *Trace the Roots and Branches of the Multiverse*
 ![Path of the World Tree.png](/img/user/DATA/Image%20Storage/Path%20of%20the%20World%20Tree.png)
 Barbarians who follow the Path of the World Tree connect with the cosmic tree Yggdrasil through their Rage. This tree grows among the Outer Plains, connecting them to each other and the Material Plane. These Barbarians draw on the tree's magic for vitality and as a means of dimensional travel.
