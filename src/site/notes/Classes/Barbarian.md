@@ -94,12 +94,14 @@ Hamstring Blow. The target's Speed is reduced by 15 feet until the start of your
 
 ## Path of the Berserker
 *Channel Rage into Violent Fury*
+![Path of the Berserker.png](/img/user/DATA/Image%20Storage/Path%20of%20the%20Berserker.png)
 Barbarians who walk the Path of the Berserker direct their Rage primarily toward violence. Their path is one of untrammeled fury, and they thrill in the chaos of battle as they allow their Rage to seize and empower them. 
 ###### Level 3: Frenzy
 If you use Reckless Attack while your Rage is active, you deal extra damage to the first target you hit on your turn with a Strength-based attack. To determine the extra damage, roll a number of d6s equal to your Rage damage bonus, and add them together. The damage has the same type as the weapon or Unarmed Strike used for the attack.
 
 ## Path of the Wild Heart
 *Walk in Community with the Animal World*
+![Path of the Wild Heart.png](/img/user/DATA/Image%20Storage/Path%20of%20the%20Wild%20Heart.png)
 Barbarians who follow the Path of the Wild Heart view themselves as kin to animals. These Barbarians learn magical means to communicate with animals, and their Rage heightens their connection to animals as it fills them with supernatural might.
 #### Level 3: Animal Speaker
 You can cast the *Beast Sense* and *Speak with Animals* spells but only as Rituals. Wisdom is your spellcasting ability for them.
