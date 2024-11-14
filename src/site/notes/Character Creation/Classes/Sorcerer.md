@@ -186,6 +186,7 @@ When you cast a spell, such as *Charm Person,* that can be cast with a higher-le
 | Sleep                | Enchantment   | C       |
 | Thunderwave          | Evocation     | -       |
 | Witch Bolt           | Evocation     | C       |
+s
 Level 2 Sorcerer Spells
 
 | Spell              | School        | Special |
@@ -220,6 +221,7 @@ Level 2 Sorcerer Spells
 | Spider Climb       | Transmutation | C       |
 | Suggestion         | Enchantment   | C       |
 | Web                | Conjuration   | C       |
+
 Level 3 Sorcerer Spells
 
 | Spell                  | School        | Special |
@@ -245,6 +247,7 @@ Level 3 Sorcerer Spells
 | Vampiric Touch         | Necromancy    | C       |
 | Water Breathing        | Transmutation | R       |
 | Water Walk             | Transmutation | R       |
+
 Level 4 Sorcerer Spells
 
 | Spell                | School        | Special |
@@ -262,6 +265,7 @@ Level 4 Sorcerer Spells
 | Stoneskin            | Transmutation | C, M    |
 | Vitriolic Sphere     | Evocation     | -       |
 | Wall of Fire         | Evocation     | C       |
+
 Level 5 Sorcerer Spells
 
 | Spell                | School        | Special |
@@ -279,6 +283,7 @@ Level 5 Sorcerer Spells
 | Telekinesis          | Transmutation | C       |
 | Teleportation Circle | Conjuration   | M       |
 | Wall of Stone        | Evocation     | C       |
+
 Level 6 Sorcerer Spells
 
 | Spell                     | School        | Special |
@@ -295,6 +300,7 @@ Level 6 Sorcerer Spells
 | Otiluke's Freezing Sphere | Evocation     | -       |
 | Sunbeam                   | Evocation     | C       |
 | True Seeing               | Divination    | M       |
+
 Level 7 Sorcerer Spells
 
 | Spell                  | School        | Special |
@@ -307,6 +313,7 @@ Level 7 Sorcerer Spells
 | Prismatic Spray        | Evocation     | -       |
 | Reverse Gravity        | Transmutation | C       |
 | Teleport               | Conjuration   | -       |
+
 Level 8 Sorcerer Spells
 
 | Spell            | School        | Special |
@@ -317,6 +324,7 @@ Level 8 Sorcerer Spells
 | Incendiary Cloud | Conjuration   | C       |
 | Power Word Stun  | Enchantment   | -       |
 | Sunburst         | Evocation     | -       |
+
 Level 9 Sorcerer Spells
 
 | Spell           | School        | Special |
