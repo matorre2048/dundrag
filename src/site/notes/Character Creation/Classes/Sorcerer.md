@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/character-creation/classes/sorcerer/"}
 ---
 
-![Sorcerer.png](/img/user/Config/DATA/Image%20Storage/Sorcerer.png)
+![Sorcerer Icon Image.png](/img/user/Config/DATA/Image%20Storage/Sorcerer%20Icon%20Image.png)
 
 | Primary Ability            | Charisma                                                                                                  |
 | -------------------------- | --------------------------------------------------------------------------------------------------------- |
@@ -186,7 +186,7 @@ When you cast a spell, such as *Charm Person,* that can be cast with a higher-le
 | Sleep                | Enchantment   | C       |
 | Thunderwave          | Evocation     | -       |
 | Witch Bolt           | Evocation     | C       |
-s
+
 Level 2 Sorcerer Spells
 
 | Spell              | School        | Special |
@@ -338,7 +338,7 @@ Level 9 Sorcerer Spells
 # Sorcerer Subclasses
 ## Clockwork Sorcery
 *Channel Cosmic Forces of Order*
-![Pasted image 20241113214503.png](/img/user/Pasted%20image%2020241113214503.png)
+![Clockwork Image.png](/img/user/Config/DATA/Image%20Storage/Clockwork%20Image.png)
 The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it- a plane of existence shaped entirely by clock-work efficiency. You or someone from your lineage might have become entangled in the machinations of modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. What ever its origin within you, the power of order can seem strange to others, but for you, it's part of a vast and glorious system. 
 #### Level 3: Clockwork Spells
 
