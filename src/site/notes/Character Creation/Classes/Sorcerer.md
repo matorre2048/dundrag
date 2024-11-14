@@ -245,6 +245,87 @@ Level 3 Sorcerer Spells
 | Vampiric Touch         | Necromancy    | C       |
 | Water Breathing        | Transmutation | R       |
 | Water Walk             | Transmutation | R       |
+Level 4 Sorcerer Spells
+
+| Spell                | School        | Special |
+| -------------------- | ------------- | ------- |
+| Banishment           | Abjuration    | C       |
+| Blight               | Necromancy    | -       |
+| Charm Monster        | Enchantment   | -       |
+| Confusion            | Enchantment   | C       |
+| Dimension Door       | Conjuration   | -       |
+| Dominate Beast       | Enchantment   | C       |
+| Fire Shield          | Evocation     | -       |
+| Greater Invisibility | Illusion      | C       |
+| Ice Storm            | Evocation     | -       |
+| Polymorph            | Transmutation | C       |
+| Stoneskin            | Transmutation | C, M    |
+| Vitriolic Sphere     | Evocation     | -       |
+| Wall of Fire         | Evocation     | C       |
+Level 5 Sorcerer Spells
+
+| Spell                | School        | Special |
+| -------------------- | ------------- | ------- |
+| Animate Objects      | Transmutation | C       |
+| Bigby's Hand         | Evocation     | C       |
+| Cloudkill            | Conjuration   | C       |
+| Cone of Cold         | Evocation     | -       |
+| Creation             | Illusion      | -       |
+| Dominate Person      | Enchantment   | C       |
+| Hold Monster         | Enchantment   | C       |
+| Insect Plague        | Conjuration   | C       |
+| Seeming              | Illusion      | -       |
+| Synaptic Static      | Enchantment   | -       |
+| Telekinesis          | Transmutation | C       |
+| Teleportation Circle | Conjuration   | M       |
+| Wall of Stone        | Evocation     | C       |
+Level 6 Sorcerer Spells
+
+| Spell                     | School        | Special |
+| ------------------------- | ------------- | ------- |
+| Arcane Gate               | Conjuration   | C       |
+| Chain Lightning           | Evocation     | -       |
+| Circle of Death           | Necromancy    | M       |
+| Disintegrate              | Transmutation | -       |
+| Eyebite                   | Necromancy    | C       |
+| Flesh to Stone            | Transmutation | C       |
+| Globe of Invulnerability  | Abjuration    | C       |
+| Mass Suggestion           | Enchantment   | -       |
+| Move Earth                | Transmutation | C       |
+| Otiluke's Freezing Sphere | Evocation     | -       |
+| Sunbeam                   | Evocation     | C       |
+| True Seeing               | Divination    | M       |
+Level 7 Sorcerer Spells
+
+| Spell                  | School        | Special |
+| ---------------------- | ------------- | ------- |
+| Delayed Blast Fireball | Evocation     | C       |
+| Etherealness           | Conjuration   | -       |
+| Finger of Death        | Necromancy    | -       |
+| Firestorm              | Evocation     | -       |
+| Plane Shift            | Conjuration   | M       |
+| Prismatic Spray        | Evocation     | -       |
+| Reverse Gravity        | Transmutation | C       |
+| Teleport               | Conjuration   | -       |
+Level 8 Sorcerer Spells
+
+| Spell            | School        | Special |
+| ---------------- | ------------- | ------- |
+| Demiplane        | Conjuration   | -       |
+| Dominate Monster | Enchantment   | C       |
+| Earthquake       | Transmutation | C       |
+| Incendiary Cloud | Conjuration   | C       |
+| Power Word Stun  | Enchantment   | -       |
+| Sunburst         | Evocation     | -       |
+Level 9 Sorcerer Spells
+
+| Spell           | School        | Special |
+| --------------- | ------------- | ------- |
+| Gate            | Conjuration   | C, M    |
+| Meteor Swarm    | Evocation     | -       |
+| Power Word Kill | Enchantment   | -       |
+| Time Stop       | Transmutation | -       |
+| Wish            | Conjuration   | -       |
 
 # Sorcerer Subclasses
 ## Clockwork Sorcery
@@ -259,6 +340,7 @@ The cosmic force of order has suffused you with magic. That power arises from Me
 | 5              | Dlspel Magic, Protection from Energy                          |
 | 7              | Freedom of Movement, Summon Construct                         |
 | 9              | Greater Restoration, Wall of Force                            |
+
 In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your Sorcerer spells.
 ##### Manifestations of Order
 
@@ -271,4 +353,19 @@ In addition, consult the Manifestations of Order table and choose or randomly de
 | 5   | Your spellcasting focus temporarily takes the form of a Tiny clockwork mechanism             |
 | 6   | The ticking gears or ringing of a clock can be heard by you ad those affected by your magic. |
 #### Level 3: Restore Balance
-Your connection to the plane of absolute order
+Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of yourself is about to roll a d20 with Advantage or Disadvantage, you can take a Reaction to prevent this roll from being affected by Advantage and Disadvantage.
+
+You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+#### Level 6: Bastion of Law
+You can tap into the grand equation of existence to imbue a creature with a shimmering shield of order. As a Magic action, you can expend 1 to 5 Sorcery Points to create a magical ward around yourself or another creature you can see within 30 feet of yourself. The ward is represented by a number of d8s equal to the number of Sorcery Points spent to create it. When the warded creature takes damage, it can expend a number of those dice, roll them, and reduce the damage taken by the total rolled on those dice.
+
+The ward lasts until you finish a Long Rest or until you use this feature again.
+#### Level 14: Trance of Order
+You gain the ability to align your consciousness with the endless calculations of Mechanus. As a Bonus Action, you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from Advantage, and whenever you make a D20 Test, you can treat a roll of 9 or lower on the D20 as a 10.
+
+Once you use this feature, you can't use it again until you finish a Long Rest unless you spend 5 Sorcery Points (no action required) to restore your use of it.
+#### Level 18: Clockwork Cavalcade
+You momentarily summon spirits of order to expunge disorder around you. As a Magic action, you summon the spirits in a 30-foot Cube originating from you. The spirits look like modrons or other Constructs of your choice. The spirits are tangible and invulnerable, and they create the effects below within the Cube before vanishing. Once you use this action, you can't use it again until you finish a Long Rest unless you spend 7 Sorcery Points (no action required) to restore your use of it.
+- ***Heal.*** The spirits restore up to 100 Hit Points, divided as you choose among any number of creatures of your choice in the Cube.
+- ***Repair.*** Any damaged objects entirely in the Cube are repaired instantly.
+- ***Dispel.*** Every spell of level 6 and lower ends on creatures and objects of your choice in the Cube.
