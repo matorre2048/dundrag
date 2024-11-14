@@ -100,11 +100,156 @@ While your Innate Sorcery feature is active, you can use one Metamagic option on
 ### Metamagic Options
 The following options are available to your Metamagic feature. The options are presented in alphabetical order.
 #### Careful Spell
-Cost: 1 Sorcery Point
+*Cost: 1 Sorcery Point*
 When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, spend 1 Sorcery Point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell, and it takes no damage if it would normally take half damage on a successful save. 
+#### Distant Spell
+*Cost: 1 Sorcery Point*
+When you cast a spell that has a range of at least 5 feet, you can spend 1 Sorcery Point to double the spell's range. Or when you cast a spell that has a range of Touch, you can spend 1 Sorcery Point to make the spell's range 30 feet.
+#### Empowered Spell
+*Cost: 1 Sorcery Point*
+When you roll damage for a spell, you can spend 1 Sorcery Point to reroll a number of the damage dice up to your Charisma modifier (minimum of one), and you must use the new rolls. 
+
+You can use Empowered Spell even if you've already used a different Metamagic option during the casting of the spell.
+#### Extended Spell
+*Cost: 1 Sorcery Point*
+When you cast a spell that has a duration of 1 minute or longer, you can spend 1 Sorcery Point to double its duration to a maximum of 24 hours.
+
+If the affected spell requires Concentration, you have Advantage on any saving throw you make to maintain that Concentration
+#### Heightened Spell
+*Cost: 2 Sorcery Points*
+When you cast a spell that forces a creature to make a saving throw, you can spend 2 Sorcery Points to give on target of the spell Disadvantage on saves against the spell.
+#### Quickened Spell 
+*Cost: 2 Sorcery Points*
+When you cast a spell that has a casting time of an action, you can spend 2 Sorcery Points to change the casting time to a Bonus Action for this casting. You can't modify a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
+#### Seeking Spell
+*Cost: 1 Sorcery Point*
+If you make an attack roll for a spell and miss, you can spend 1 Sorcery Point to reroll the d20, and you must use the new roll. 
+
+You can use Seeking Spell even if you've already used a different Metamagic option during the casting of the spell. 
+#### Subtle Spell
+*Cost: 1 Sorcery Point*
+When you cast a spell, you can spend 1 Sorcery Point to cast it without any Verbal, Somatic, or Material components, except Material components that are consumed by the spell or that have a cost specified in the spell.
+#### Transmuted Spell
+*Cost: 1 Sorcery Point*
+When you cast a spell that deals a type of damage from the following list, you can spend 1 Sorcery Point to change that damage type to one of the other listed types: Acid, Cold, Fire, Lightning, Poison, Thunder.
+#### Twinned Spell
+*Cost: 1 Sorcery Point*
+When you cast a spell, such as *Charm Person,* that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell's effective level by 1.
+## Sorcerer Spell List
+###### Cantrips (Level 0 Sorcerer Spells)
+
+| Spell            | School        | Special |
+| ---------------- | ------------- | ------- |
+| Acid Splash      | Evocation     | -       |
+| Blade Ward       | Abjuration    | C       |
+| Chill Touch      | Necromancy    | -       |
+| Dancing Lights   | Illusion      | C       |
+| Elementalism     | Transmutation | -       |
+| Fire Bolt        | Evocation     | -       |
+| Friends          | Enchantment   | C       |
+| Light            | Evocation     | -       |
+| Mage Hand        | Conjuration   | -       |
+| Mending          | Transmutation | -       |
+| Message          | Transmutation | -       |
+| Mind Sliver      | Enchantment   | -       |
+| Minor Illusion   | Illusion      | -       |
+| Poison Spray     | Necromancy    | -       |
+| Prestidigitation | Transmutation | -       |
+| Ray of Frost     | Evocation     | -       |
+| Shocking Grasp   | Evocation     | -       |
+| Sorcerous Burst  | Evocation     | -       |
+| Thunderclap      | Evocation     | -       |
+| True Strike      | Divination    | -       |
+###### Level 1 Sorcerer Spells
+
+| Spell                | School        | Special |
+| -------------------- | ------------- | ------- |
+| Burning Hands        | Evocation     | -       |
+| Charm Person         | Enchantment   | -       |
+| Chromatic Orb        | Evocation     | M       |
+| Color Spray          | Illusion      | -       |
+| Comprehend Languages | Divination    | R       |
+| Detect Magic         | Divination    | C, R    |
+| Disguise Self        | Illusion      | -       |
+| Expeditious Retreat  | Transmutation | C       |
+| False Life           | Necromancy    | -       |
+| Feather Fall         | Transmutation | -       |
+| Fog Cloud            | Conjuration   | C       |
+| Grease               | Conjuration   | -       |
+| Ice Knife            | Conjuration   | -       |
+| Jump                 | Transmutation | -       |
+| Mage Armor           | Abjuration    | -       |
+| Magic Missile        | Evocation     | -       |
+| Ray of Sickness      | Necromancy    | -       |
+| Shield               | Abjuration    | -       |
+| Silent Image         | Illusion      | C       |
+| Sleep                | Enchantment   | C       |
+| Thunderwave          | Evocation     | -       |
+| Witch Bolt           | Evocation     | C       |
+Level 2 Sorcerer Spells
+
+| Spell              | School        | Special |
+| ------------------ | ------------- | ------- |
+| Alter Self         | Transmutation | C       |
+| Arcane Vigor       | Abjuration    | -       |
+| Blindness/Deafness | Transmutation | -       |
+| Blur               | Illusion      | C       |
+| Cloud of Daggers   | Conjuration   | C       |
+| Crown of Madness   | Enchantment   | C       |
+| Darkness           | Evocation     | C       |
+| Darkvision         | Transmutation | -       |
+| Detect Thoughts    | Divination    | C       |
+| Dragon's Breath    | Transmutation | C       |
+| Enhance Ability    | Transmutation | C       |
+| Enlarge/Reduce     | Transmutation | C       |
+| Flame Blade        | Evocation     | C       |
+| Flaming Sphere     | Evocation     | C       |
+| Gust of Wind       | Evocation     | C       |
+| Hold Person        | Enchantment   | C       |
+| Invisibility       | Illusion      | C       |
+| Knock              | Transmutation | -       |
+| Levitate           | Transmutation | C       |
+| Magic Weapon       | Transmutation | -       |
+| Mind Spike         | Divination    | C       |
+| Mirror Image       | Illusion      | -       |
+| Misty Step         | Conjuration   | -       |
+| Phantasmal Force   | Illusion      | C       |
+| Scorching Ray      | Evocation     | -       |
+| See Invisibility   | Divination    | -       |
+| Shatter            | Evocation     | -       |
+| Spider Climb       | Transmutation | C       |
+| Suggestion         | Enchantment   | C       |
+| Web                | Conjuration   | C       |
+Level 3 Sorcerer Spells
+
+| Spell                  | School        | Special |
+| ---------------------- | ------------- | ------- |
+| Blink                  | Transmutation | -       |
+| Clairvoyance           | Divination    | C, M    |
+| Counterspell           | Abjuration    | -       |
+| Daylight               | Evocation     | -       |
+| Dispel Magic           | Abjuration    | -       |
+| Fear                   | Illusion      | C       |
+| Fireball               | Evocation     | -       |
+| Fly                    | Transmutation | C       |
+| Gaseous Form           | Transmutation | C       |
+| Haste                  | Transmutation | C       |
+| Hypnotic Pattern       | Illusion      | C       |
+| Lightning Bolt         | Evocation     | -       |
+| Major Image            | Illusion      | C       |
+| Protection from Energy | Abjuration    | C       |
+| Sleet Storm            | Conjuration   | C       |
+| Slow                   | Transmutation | C       |
+| Stinking Cloud         | Conjuration   | C       |
+| Tongues                | Divination    | -       |
+| Vampiric Touch         | Necromancy    | C       |
+| Water Breathing        | Transmutation | R       |
+| Water Walk             | Transmutation | R       |
+
 # Sorcerer Subclasses
 ## Clockwork Sorcery
 *Channel Cosmic Forces of Order*
+![Pasted image 20241113214503.png](/img/user/Pasted%20image%2020241113214503.png)
 The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it- a plane of existence shaped entirely by clock-work efficiency. You or someone from your lineage might have become entangled in the machinations of modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. What ever its origin within you, the power of order can seem strange to others, but for you, it's part of a vast and glorious system. 
 #### Level 3: Clockwork Spells
 
