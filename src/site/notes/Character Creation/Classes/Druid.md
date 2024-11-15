@@ -28,13 +28,13 @@ Druid Class Features
 
 Level 1: Spellcasting
 You have learned to cast spells through the studying the mystical forces of nature. The information below details how you use those rules with Druid spells, which appear in the Druid spell list later in the class's description.
-- ***Cantrips.*** You know two cantrips of your choice from the Druid spell list. *Druidcraft* and *Produce Flame* are recommended.
+- ***Cantrips.*** You know two cantrips of your choice from the Druid spell list. *[[Character Creation/Spells/Spell Descriptions#Druidcraft\|Druidcraft]]* and *[[Character Creation/Spells/Spell Descriptions#Produce Flame\|Produce Flame]]* are recommended.
   
   Whenever you gain a Druid level, you can replace one of your cantrips from this feature with another Druid cantrip of your choice. 
   
   When you reach Druid levels 4 and 10, you learn another Druid cantrip of your choice, as shown in the Cantrips column of the Druid Features table.
 - ***Spell Slots.*** The Druid Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
-- ***Prepared Spells of Level 1+***. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. *[[Character Creation/Spells/Spells#Animal Friendship\|Animal Friendship]]*, *Cure Wounds,* *Faerie Fire,* and *Thunderwave* are recommended.
+- ***Prepared Spells of Level 1+***. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. *[[Character Creation/Spells/Spell Descriptions#Animal Friendship\|Animal Friendship]]*, *[[Character Creation/Spells/Spell Descriptions#Cure Wounds\|Cure Wounds]],* *[[Character Creation/Spells/Spell Descriptions#Faerie Fire\|Faerie Fire]],* and *[[Character Creation/Spells/Spell Descriptions#Thunderwave\|Thunderwave]]* are recommended.
 
   The number of spells on your list increases as you gain Druid levels, as shown in the Prepared Spells column of the Druid Features table. Whenever that number increases, choose additional Druid spells until the number of spells on your list matches the number in the Druid Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Druid, your list of prepared spells can include six Druid spells of level 1 and 2 in any combination.
 
@@ -44,7 +44,7 @@ You have learned to cast spells through the studying the mystical forces of natu
 - ***Spellcasting Ability.*** Wisdom is your spellcasting ability for your Druid spells.
 - ***Spellcasting Focus.*** You can use an Druidic Focus as a Spellcasting Focus for your Druid spells.
 Level 1: Druidic
-You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the *Speak with Animals* spell prepared.
+You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the *[[Character Creation/Spells/Spell Descriptions#Speak With Animals\|Speak With Animals]]* spell prepared.
 
 You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message's presence with a successful DC 15 Intelligence (Investigation) check but can't decipher it without magic.
 Level 1: Primal Order
