@@ -20,7 +20,7 @@
 - Gain the Hit Point Die from the Core Sorcerer Traits table.
 - Gain the Sorcerer's level 1 features, which are listed in the Sorcerer Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
 ## Sorcerer Class Features
-As a Sorcerer, you gain the following class features when you reach the specified Sorcerer levels. Those features are listed in the Barbarian Features table.
+As a Sorcerer, you gain the following class features when you reach the specified Sorcerer levels. Those features are listed in the Sorcerer Features table.
 
 | Level | Proficiency Bonus | Class Features               | Rages | Prepared Spells |  1  | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
 | :---: | :---------------: | ---------------------------- | :---: | :-------------: | :-: | --- | --- | --- | --- | --- | --- | --- | --- |
