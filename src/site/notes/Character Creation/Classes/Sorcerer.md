@@ -22,28 +22,28 @@
 ## Sorcerer Class Features
 As a Sorcerer, you gain the following class features when you reach the specified Sorcerer levels. Those features are listed in the Sorcerer Features table.
 
-| Level | Proficiency Bonus | Class Features               | Rages | Prepared Spells |  1  | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
-| :---: | :---------------: | ---------------------------- | :---: | :-------------: | :-: | --- | --- | --- | --- | --- | --- | --- | --- |
-|   1   |        +2         | Spellcasting, Innate Sorcery |   4   |        2        |  2  | -   | -   | -   | -   | -   | -   | -   | -   |
-|   2   |        +2         | Font of Magic, Metamagic     |   4   |        4        |  3  | -   | -   | -   | -   | -   | -   | -   | -   |
-|   3   |        +2         | Sorcerer Subclass            |   4   |        6        |  4  | 2   | -   | -   | -   | -   | -   | -   | -   |
-|   4   |        +2         | Ability Score Improvement    |   5   |        7        |  4  | 3   | -   | -   | -   | -   | -   | -   | -   |
-|   5   |        +3         | Sorcerous Restoration        |   5   |        9        |  4  | 3   | 2   | -   | -   | -   | -   | -   | -   |
-|   6   |        +3         | Subclass feature             |   5   |       10        |  4  | 3   | 3   | -   | -   | -   | -   | -   | -   |
-|   7   |        +3         | Sorcerey Incarnate           |   5   |       11        |  4  | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-|   8   |        +3         | Ability Score Improvement    |   5   |       12        |  4  | 3   | 3   | 2   | -   | -   | -   | -   | -   |
-|   9   |        +4         | -                            |   5   |       14        |  4  | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
-|  10   |        +4         | Metamagic                    |   6   |       15        |  4  | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
-|  11   |        +4         | -                            |   6   |       16        |  4  | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-|  12   |        +4         | Ability Score Improvement    |   6   |       16        |  4  | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-|  13   |        +5         | -                            |   6   |       17        |  4  | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-|  14   |        +5         | Subclass feature             |   6   |       17        |  4  | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-|  15   |        +5         | -                            |   6   |       18        |  4  | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-|  16   |        +5         | Ability Score Improvement    |   6   |       18        |  4  | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-|  17   |        +6         | Metamagic                    |   6   |       19        |  4  | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-|  18   |        +6         | Subclass feature             |   6   |       20        |  4  | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-|  19   |        +6         | Epic Boon                    |   6   |       21        |  4  | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-|  20   |        +6         | Arcane Apotheosis            |   6   |       22        |  4  | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| Level | Proficiency Bonus | Class Features               | Sorcery Points | Prepared Spells |  1  | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
+| :---: | :---------------: | ---------------------------- | :------------: | :-------------: | :-: | --- | --- | --- | --- | --- | --- | --- | --- |
+|   1   |        +2         | Spellcasting, Innate Sorcery |       4        |        2        |  2  | -   | -   | -   | -   | -   | -   | -   | -   |
+|   2   |        +2         | Font of Magic, Metamagic     |       4        |        4        |  3  | -   | -   | -   | -   | -   | -   | -   | -   |
+|   3   |        +2         | Sorcerer Subclass            |       4        |        6        |  4  | 2   | -   | -   | -   | -   | -   | -   | -   |
+|   4   |        +2         | Ability Score Improvement    |       5        |        7        |  4  | 3   | -   | -   | -   | -   | -   | -   | -   |
+|   5   |        +3         | Sorcerous Restoration        |       5        |        9        |  4  | 3   | 2   | -   | -   | -   | -   | -   | -   |
+|   6   |        +3         | Subclass feature             |       5        |       10        |  4  | 3   | 3   | -   | -   | -   | -   | -   | -   |
+|   7   |        +3         | Sorcerey Incarnate           |       5        |       11        |  4  | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+|   8   |        +3         | Ability Score Improvement    |       5        |       12        |  4  | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+|   9   |        +4         | -                            |       5        |       14        |  4  | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+|  10   |        +4         | Metamagic                    |       6        |       15        |  4  | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+|  11   |        +4         | -                            |       6        |       16        |  4  | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+|  12   |        +4         | Ability Score Improvement    |       6        |       16        |  4  | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+|  13   |        +5         | -                            |       6        |       17        |  4  | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+|  14   |        +5         | Subclass feature             |       6        |       17        |  4  | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+|  15   |        +5         | -                            |       6        |       18        |  4  | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+|  16   |        +5         | Ability Score Improvement    |       6        |       18        |  4  | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+|  17   |        +6         | Metamagic                    |       6        |       19        |  4  | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+|  18   |        +6         | Subclass feature             |       6        |       20        |  4  | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+|  19   |        +6         | Epic Boon                    |       6        |       21        |  4  | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+|  20   |        +6         | Arcane Apotheosis            |       6        |       22        |  4  | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 #### Level 1: Spellcasting
 Drawing from your innate magic, you can cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the Sorcerer spell list later in the class's description.
 - ***Cantrips.*** You know four Sorcerer cantrips of your choice. *Light, Prestidigitation, shocking* *grasp,* and *Sorcerous Burst* are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice. 
