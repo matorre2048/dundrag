@@ -22,28 +22,28 @@
 ## Sorcerer Class Features
 As a Sorcerer, you gain the following class features when you reach the specified Sorcerer levels. Those features are listed in the Sorcerer Features table.
 
-| Level | Proficiency Bonus | Class Features               | Sorcery Points | Prepared Spells |  1  | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
-| :---: | :---------------: | ---------------------------- | :------------: | :-------------: | :-: | --- | --- | --- | --- | --- | --- | --- | --- |
-|   1   |        +2         | Spellcasting, Innate Sorcery |       4        |        2        |  2  | -   | -   | -   | -   | -   | -   | -   | -   |
-|   2   |        +2         | Font of Magic, Metamagic     |       4        |        4        |  3  | -   | -   | -   | -   | -   | -   | -   | -   |
-|   3   |        +2         | Sorcerer Subclass            |       4        |        6        |  4  | 2   | -   | -   | -   | -   | -   | -   | -   |
-|   4   |        +2         | Ability Score Improvement    |       5        |        7        |  4  | 3   | -   | -   | -   | -   | -   | -   | -   |
-|   5   |        +3         | Sorcerous Restoration        |       5        |        9        |  4  | 3   | 2   | -   | -   | -   | -   | -   | -   |
-|   6   |        +3         | Subclass feature             |       5        |       10        |  4  | 3   | 3   | -   | -   | -   | -   | -   | -   |
-|   7   |        +3         | Sorcerey Incarnate           |       5        |       11        |  4  | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-|   8   |        +3         | Ability Score Improvement    |       5        |       12        |  4  | 3   | 3   | 2   | -   | -   | -   | -   | -   |
-|   9   |        +4         | -                            |       5        |       14        |  4  | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
-|  10   |        +4         | Metamagic                    |       6        |       15        |  4  | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
-|  11   |        +4         | -                            |       6        |       16        |  4  | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-|  12   |        +4         | Ability Score Improvement    |       6        |       16        |  4  | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-|  13   |        +5         | -                            |       6        |       17        |  4  | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-|  14   |        +5         | Subclass feature             |       6        |       17        |  4  | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-|  15   |        +5         | -                            |       6        |       18        |  4  | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-|  16   |        +5         | Ability Score Improvement    |       6        |       18        |  4  | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-|  17   |        +6         | Metamagic                    |       6        |       19        |  4  | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-|  18   |        +6         | Subclass feature             |       6        |       20        |  4  | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-|  19   |        +6         | Epic Boon                    |       6        |       21        |  4  | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-|  20   |        +6         | Arcane Apotheosis            |       6        |       22        |  4  | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| Level | Proficiency Bonus | Class Features               | Sorcery Points | Prepared Spells |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |
+| :---: | :---------------: | ---------------------------- | :------------: | :-------------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|   1   |        +2         | Spellcasting, Innate Sorcery |       4        |        2        |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   2   |        +2         | Font of Magic, Metamagic     |       4        |        4        |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   3   |        +2         | Sorcerer Subclass            |       4        |        6        |  4  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   4   |        +2         | Ability Score Improvement    |       5        |        7        |  4  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   5   |        +3         | Sorcerous Restoration        |       5        |        9        |  4  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   6   |        +3         | Subclass feature             |       5        |       10        |  4  |  3  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |
+|   7   |        +3         | Sorcerey Incarnate           |       5        |       11        |  4  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |  -  |
+|   8   |        +3         | Ability Score Improvement    |       5        |       12        |  4  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |
+|   9   |        +4         | -                            |       5        |       14        |  4  |  3  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |
+|  10   |        +4         | Metamagic                    |       6        |       15        |  4  |  3  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |
+|  11   |        +4         | -                            |       6        |       16        |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
+|  12   |        +4         | Ability Score Improvement    |       6        |       16        |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |
+|  13   |        +5         | -                            |       6        |       17        |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  -  |  -  |
+|  14   |        +5         | Subclass feature             |       6        |       17        |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  -  |  -  |
+|  15   |        +5         | -                            |       6        |       18        |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  -  |
+|  16   |        +5         | Ability Score Improvement    |       6        |       18        |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  -  |
+|  17   |        +6         | Metamagic                    |       6        |       19        |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  1  |
+|  18   |        +6         | Subclass feature             |       6        |       20        |  4  |  3  |  3  |  3  |  3  |  1  |  1  |  1  |  1  |
+|  19   |        +6         | Epic Boon                    |       6        |       21        |  4  |  3  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |
+|  20   |        +6         | Arcane Apotheosis            |       6        |       22        |  4  |  3  |  3  |  3  |  3  |  2  |  2  |  1  |  1  |
 #### Level 1: Spellcasting
 Drawing from your innate magic, you can cast spells. See chapter 7 for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the Sorcerer spell list later in the class's description.
 - ***Cantrips.*** You know four Sorcerer cantrips of your choice. *Light, Prestidigitation, shocking* *grasp,* and *Sorcerous Burst* are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice. 
@@ -72,13 +72,13 @@ You can use your Sorcery Points to fuel the options below, along with other feat
   Any spell slots you create with this feature vanishes when you finish a Long Rest.
 ##### Creating Spell Slots
 
-| Spell Slot Level | Sorcery Point Cost | Min. Sorcerer Level |
-| ---------------- | ------------------ | ------------------- |
-| 1                | 2                  | 2                   |
-| 2                | 3                  | 3                   |
-| 3                | 5                  | 5                   |
-| 4                | 6                  | 7                   |
-| 5                | 7                  | 9                   |
+| Spell Slot<br> Level | Sorcery Point<br> Cost | Min. Sorcerer <br>Level |
+| :------------------: | :--------------------: | :---------------------: |
+|          1           |           2            |            2            |
+|          2           |           3            |            3            |
+|          3           |           5            |            5            |
+|          4           |           6            |            7            |
+|          5           |           7            |            9            |
 #### Level 2. Metamagic
 Because your magic flows from within, you can alter your spells to suit your needs, you gain two Metamagic options of your choice from "Metamagic Options" later in this class's description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs. 
 You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.
@@ -139,201 +139,201 @@ When you cast a spell, such as *Charm Person,* that can be cast with a higher-le
 ###### Cantrips (Level 0 Sorcerer Spells)
 
 | Spell            | School        | Special |
-| ---------------- | ------------- | ------- |
-| Acid Splash      | Evocation     | -       |
-| Blade Ward       | Abjuration    | C       |
-| Chill Touch      | Necromancy    | -       |
-| Dancing Lights   | Illusion      | C       |
-| Elementalism     | Transmutation | -       |
-| Fire Bolt        | Evocation     | -       |
-| Friends          | Enchantment   | C       |
-| Light            | Evocation     | -       |
-| Mage Hand        | Conjuration   | -       |
-| Mending          | Transmutation | -       |
-| Message          | Transmutation | -       |
-| Mind Sliver      | Enchantment   | -       |
-| Minor Illusion   | Illusion      | -       |
-| Poison Spray     | Necromancy    | -       |
-| Prestidigitation | Transmutation | -       |
-| Ray of Frost     | Evocation     | -       |
-| Shocking Grasp   | Evocation     | -       |
-| Sorcerous Burst  | Evocation     | -       |
-| Thunderclap      | Evocation     | -       |
-| True Strike      | Divination    | -       |
+| ---------------- | ------------- | :-----: |
+| Acid Splash      | Evocation     |    -    |
+| Blade Ward       | Abjuration    |    C    |
+| Chill Touch      | Necromancy    |    -    |
+| Dancing Lights   | Illusion      |    C    |
+| Elementalism     | Transmutation |    -    |
+| Fire Bolt        | Evocation     |    -    |
+| Friends          | Enchantment   |    C    |
+| Light            | Evocation     |    -    |
+| Mage Hand        | Conjuration   |    -    |
+| Mending          | Transmutation |    -    |
+| Message          | Transmutation |    -    |
+| Mind Sliver      | Enchantment   |    -    |
+| Minor Illusion   | Illusion      |    -    |
+| Poison Spray     | Necromancy    |    -    |
+| Prestidigitation | Transmutation |    -    |
+| Ray of Frost     | Evocation     |    -    |
+| Shocking Grasp   | Evocation     |    -    |
+| Sorcerous Burst  | Evocation     |    -    |
+| Thunderclap      | Evocation     |    -    |
+| True Strike      | Divination    |    -    |
 ###### Level 1 Sorcerer Spells
 
 | Spell                | School        | Special |
-| -------------------- | ------------- | ------- |
-| Burning Hands        | Evocation     | -       |
-| Charm Person         | Enchantment   | -       |
-| Chromatic Orb        | Evocation     | M       |
-| Color Spray          | Illusion      | -       |
-| Comprehend Languages | Divination    | R       |
-| Detect Magic         | Divination    | C, R    |
-| Disguise Self        | Illusion      | -       |
-| Expeditious Retreat  | Transmutation | C       |
-| False Life           | Necromancy    | -       |
-| Feather Fall         | Transmutation | -       |
-| Fog Cloud            | Conjuration   | C       |
-| Grease               | Conjuration   | -       |
-| Ice Knife            | Conjuration   | -       |
-| Jump                 | Transmutation | -       |
-| Mage Armor           | Abjuration    | -       |
-| Magic Missile        | Evocation     | -       |
-| Ray of Sickness      | Necromancy    | -       |
-| Shield               | Abjuration    | -       |
-| Silent Image         | Illusion      | C       |
-| Sleep                | Enchantment   | C       |
-| Thunderwave          | Evocation     | -       |
-| Witch Bolt           | Evocation     | C       |
+| -------------------- | ------------- | :-----: |
+| Burning Hands        | Evocation     |    -    |
+| Charm Person         | Enchantment   |    -    |
+| Chromatic Orb        | Evocation     |    M    |
+| Color Spray          | Illusion      |    -    |
+| Comprehend Languages | Divination    |    R    |
+| Detect Magic         | Divination    |  C, R   |
+| Disguise Self        | Illusion      |    -    |
+| Expeditious Retreat  | Transmutation |    C    |
+| False Life           | Necromancy    |    -    |
+| Feather Fall         | Transmutation |    -    |
+| Fog Cloud            | Conjuration   |    C    |
+| Grease               | Conjuration   |    -    |
+| Ice Knife            | Conjuration   |    -    |
+| Jump                 | Transmutation |    -    |
+| Mage Armor           | Abjuration    |    -    |
+| Magic Missile        | Evocation     |    -    |
+| Ray of Sickness      | Necromancy    |    -    |
+| Shield               | Abjuration    |    -    |
+| Silent Image         | Illusion      |    C    |
+| Sleep                | Enchantment   |    C    |
+| Thunderwave          | Evocation     |    -    |
+| Witch Bolt           | Evocation     |    C    |
 
 Level 2 Sorcerer Spells
 
 | Spell              | School        | Special |
-| ------------------ | ------------- | ------- |
-| Alter Self         | Transmutation | C       |
-| Arcane Vigor       | Abjuration    | -       |
-| Blindness/Deafness | Transmutation | -       |
-| Blur               | Illusion      | C       |
-| Cloud of Daggers   | Conjuration   | C       |
-| Crown of Madness   | Enchantment   | C       |
-| Darkness           | Evocation     | C       |
-| Darkvision         | Transmutation | -       |
-| Detect Thoughts    | Divination    | C       |
-| Dragon's Breath    | Transmutation | C       |
-| Enhance Ability    | Transmutation | C       |
-| Enlarge/Reduce     | Transmutation | C       |
-| Flame Blade        | Evocation     | C       |
-| Flaming Sphere     | Evocation     | C       |
-| Gust of Wind       | Evocation     | C       |
-| Hold Person        | Enchantment   | C       |
-| Invisibility       | Illusion      | C       |
-| Knock              | Transmutation | -       |
-| Levitate           | Transmutation | C       |
-| Magic Weapon       | Transmutation | -       |
-| Mind Spike         | Divination    | C       |
-| Mirror Image       | Illusion      | -       |
-| Misty Step         | Conjuration   | -       |
-| Phantasmal Force   | Illusion      | C       |
-| Scorching Ray      | Evocation     | -       |
-| See Invisibility   | Divination    | -       |
-| Shatter            | Evocation     | -       |
-| Spider Climb       | Transmutation | C       |
-| Suggestion         | Enchantment   | C       |
-| Web                | Conjuration   | C       |
+| ------------------ | ------------- | :-----: |
+| Alter Self         | Transmutation |    C    |
+| Arcane Vigor       | Abjuration    |    -    |
+| Blindness/Deafness | Transmutation |    -    |
+| Blur               | Illusion      |    C    |
+| Cloud of Daggers   | Conjuration   |    C    |
+| Crown of Madness   | Enchantment   |    C    |
+| Darkness           | Evocation     |    C    |
+| Darkvision         | Transmutation |    -    |
+| Detect Thoughts    | Divination    |    C    |
+| Dragon's Breath    | Transmutation |    C    |
+| Enhance Ability    | Transmutation |    C    |
+| Enlarge/Reduce     | Transmutation |    C    |
+| Flame Blade        | Evocation     |    C    |
+| Flaming Sphere     | Evocation     |    C    |
+| Gust of Wind       | Evocation     |    C    |
+| Hold Person        | Enchantment   |    C    |
+| Invisibility       | Illusion      |    C    |
+| Knock              | Transmutation |    -    |
+| Levitate           | Transmutation |    C    |
+| Magic Weapon       | Transmutation |    -    |
+| Mind Spike         | Divination    |    C    |
+| Mirror Image       | Illusion      |    -    |
+| Misty Step         | Conjuration   |    -    |
+| Phantasmal Force   | Illusion      |    C    |
+| Scorching Ray      | Evocation     |    -    |
+| See Invisibility   | Divination    |    -    |
+| Shatter            | Evocation     |    -    |
+| Spider Climb       | Transmutation |    C    |
+| Suggestion         | Enchantment   |    C    |
+| Web                | Conjuration   |    C    |
 
 Level 3 Sorcerer Spells
 
 | Spell                  | School        | Special |
-| ---------------------- | ------------- | ------- |
-| Blink                  | Transmutation | -       |
-| Clairvoyance           | Divination    | C, M    |
-| Counterspell           | Abjuration    | -       |
-| Daylight               | Evocation     | -       |
-| Dispel Magic           | Abjuration    | -       |
-| Fear                   | Illusion      | C       |
-| Fireball               | Evocation     | -       |
-| Fly                    | Transmutation | C       |
-| Gaseous Form           | Transmutation | C       |
-| Haste                  | Transmutation | C       |
-| Hypnotic Pattern       | Illusion      | C       |
-| Lightning Bolt         | Evocation     | -       |
-| Major Image            | Illusion      | C       |
-| Protection from Energy | Abjuration    | C       |
-| Sleet Storm            | Conjuration   | C       |
-| Slow                   | Transmutation | C       |
-| Stinking Cloud         | Conjuration   | C       |
-| Tongues                | Divination    | -       |
-| Vampiric Touch         | Necromancy    | C       |
-| Water Breathing        | Transmutation | R       |
-| Water Walk             | Transmutation | R       |
+| ---------------------- | ------------- | :-----: |
+| Blink                  | Transmutation |    -    |
+| Clairvoyance           | Divination    |  C, M   |
+| Counterspell           | Abjuration    |    -    |
+| Daylight               | Evocation     |    -    |
+| Dispel Magic           | Abjuration    |    -    |
+| Fear                   | Illusion      |    C    |
+| Fireball               | Evocation     |    -    |
+| Fly                    | Transmutation |    C    |
+| Gaseous Form           | Transmutation |    C    |
+| Haste                  | Transmutation |    C    |
+| Hypnotic Pattern       | Illusion      |    C    |
+| Lightning Bolt         | Evocation     |    -    |
+| Major Image            | Illusion      |    C    |
+| Protection from Energy | Abjuration    |    C    |
+| Sleet Storm            | Conjuration   |    C    |
+| Slow                   | Transmutation |    C    |
+| Stinking Cloud         | Conjuration   |    C    |
+| Tongues                | Divination    |    -    |
+| Vampiric Touch         | Necromancy    |    C    |
+| Water Breathing        | Transmutation |    R    |
+| Water Walk             | Transmutation |    R    |
 
 Level 4 Sorcerer Spells
 
 | Spell                | School        | Special |
-| -------------------- | ------------- | ------- |
-| Banishment           | Abjuration    | C       |
-| Blight               | Necromancy    | -       |
-| Charm Monster        | Enchantment   | -       |
-| Confusion            | Enchantment   | C       |
-| Dimension Door       | Conjuration   | -       |
-| Dominate Beast       | Enchantment   | C       |
-| Fire Shield          | Evocation     | -       |
-| Greater Invisibility | Illusion      | C       |
-| Ice Storm            | Evocation     | -       |
-| Polymorph            | Transmutation | C       |
-| Stoneskin            | Transmutation | C, M    |
-| Vitriolic Sphere     | Evocation     | -       |
-| Wall of Fire         | Evocation     | C       |
+| -------------------- | ------------- | :-----: |
+| Banishment           | Abjuration    |    C    |
+| Blight               | Necromancy    |    -    |
+| Charm Monster        | Enchantment   |    -    |
+| Confusion            | Enchantment   |    C    |
+| Dimension Door       | Conjuration   |    -    |
+| Dominate Beast       | Enchantment   |    C    |
+| Fire Shield          | Evocation     |    -    |
+| Greater Invisibility | Illusion      |    C    |
+| Ice Storm            | Evocation     |    -    |
+| Polymorph            | Transmutation |    C    |
+| Stoneskin            | Transmutation |  C, M   |
+| Vitriolic Sphere     | Evocation     |    -    |
+| Wall of Fire         | Evocation     |    C    |
 
 Level 5 Sorcerer Spells
 
 | Spell                | School        | Special |
-| -------------------- | ------------- | ------- |
-| Animate Objects      | Transmutation | C       |
-| Bigby's Hand         | Evocation     | C       |
-| Cloudkill            | Conjuration   | C       |
-| Cone of Cold         | Evocation     | -       |
-| Creation             | Illusion      | -       |
-| Dominate Person      | Enchantment   | C       |
-| Hold Monster         | Enchantment   | C       |
-| Insect Plague        | Conjuration   | C       |
-| Seeming              | Illusion      | -       |
-| Synaptic Static      | Enchantment   | -       |
-| Telekinesis          | Transmutation | C       |
-| Teleportation Circle | Conjuration   | M       |
-| Wall of Stone        | Evocation     | C       |
+| -------------------- | ------------- | :-----: |
+| Animate Objects      | Transmutation |    C    |
+| Bigby's Hand         | Evocation     |    C    |
+| Cloudkill            | Conjuration   |    C    |
+| Cone of Cold         | Evocation     |    -    |
+| Creation             | Illusion      |    -    |
+| Dominate Person      | Enchantment   |    C    |
+| Hold Monster         | Enchantment   |    C    |
+| Insect Plague        | Conjuration   |    C    |
+| Seeming              | Illusion      |    -    |
+| Synaptic Static      | Enchantment   |    -    |
+| Telekinesis          | Transmutation |    C    |
+| Teleportation Circle | Conjuration   |    M    |
+| Wall of Stone        | Evocation     |    C    |
 
 Level 6 Sorcerer Spells
 
 | Spell                     | School        | Special |
-| ------------------------- | ------------- | ------- |
-| Arcane Gate               | Conjuration   | C       |
-| Chain Lightning           | Evocation     | -       |
-| Circle of Death           | Necromancy    | M       |
-| Disintegrate              | Transmutation | -       |
-| Eyebite                   | Necromancy    | C       |
-| Flesh to Stone            | Transmutation | C       |
-| Globe of Invulnerability  | Abjuration    | C       |
-| Mass Suggestion           | Enchantment   | -       |
-| Move Earth                | Transmutation | C       |
-| Otiluke's Freezing Sphere | Evocation     | -       |
-| Sunbeam                   | Evocation     | C       |
-| True Seeing               | Divination    | M       |
+| ------------------------- | ------------- | :-----: |
+| Arcane Gate               | Conjuration   |    C    |
+| Chain Lightning           | Evocation     |    -    |
+| Circle of Death           | Necromancy    |    M    |
+| Disintegrate              | Transmutation |    -    |
+| Eyebite                   | Necromancy    |    C    |
+| Flesh to Stone            | Transmutation |    C    |
+| Globe of Invulnerability  | Abjuration    |    C    |
+| Mass Suggestion           | Enchantment   |    -    |
+| Move Earth                | Transmutation |    C    |
+| Otiluke's Freezing Sphere | Evocation     |    -    |
+| Sunbeam                   | Evocation     |    C    |
+| True Seeing               | Divination    |    M    |
 
 Level 7 Sorcerer Spells
 
 | Spell                  | School        | Special |
-| ---------------------- | ------------- | ------- |
-| Delayed Blast Fireball | Evocation     | C       |
-| Etherealness           | Conjuration   | -       |
-| Finger of Death        | Necromancy    | -       |
-| Firestorm              | Evocation     | -       |
-| Plane Shift            | Conjuration   | M       |
-| Prismatic Spray        | Evocation     | -       |
-| Reverse Gravity        | Transmutation | C       |
-| Teleport               | Conjuration   | -       |
+| ---------------------- | ------------- | :-----: |
+| Delayed Blast Fireball | Evocation     |    C    |
+| Etherealness           | Conjuration   |    -    |
+| Finger of Death        | Necromancy    |    -    |
+| Firestorm              | Evocation     |    -    |
+| Plane Shift            | Conjuration   |    M    |
+| Prismatic Spray        | Evocation     |    -    |
+| Reverse Gravity        | Transmutation |    C    |
+| Teleport               | Conjuration   |    -    |
 
 Level 8 Sorcerer Spells
 
 | Spell            | School        | Special |
-| ---------------- | ------------- | ------- |
-| Demiplane        | Conjuration   | -       |
-| Dominate Monster | Enchantment   | C       |
-| Earthquake       | Transmutation | C       |
-| Incendiary Cloud | Conjuration   | C       |
-| Power Word Stun  | Enchantment   | -       |
-| Sunburst         | Evocation     | -       |
+| ---------------- | ------------- | :-----: |
+| Demiplane        | Conjuration   |    -    |
+| Dominate Monster | Enchantment   |    C    |
+| Earthquake       | Transmutation |    C    |
+| Incendiary Cloud | Conjuration   |    C    |
+| Power Word Stun  | Enchantment   |    -    |
+| Sunburst         | Evocation     |    -    |
 
 Level 9 Sorcerer Spells
 
 | Spell           | School        | Special |
-| --------------- | ------------- | ------- |
-| Gate            | Conjuration   | C, M    |
-| Meteor Swarm    | Evocation     | -       |
-| Power Word Kill | Enchantment   | -       |
-| Time Stop       | Transmutation | -       |
-| Wish            | Conjuration   | -       |
+| --------------- | ------------- | :-----: |
+| Gate            | Conjuration   |  C, M   |
+| Meteor Swarm    | Evocation     |    -    |
+| Power Word Kill | Enchantment   |    -    |
+| Time Stop       | Transmutation |    -    |
+| Wish            | Conjuration   |    -    |
 
 # Sorcerer Subclasses
 ## Clockwork Sorcery
@@ -342,24 +342,24 @@ Level 9 Sorcerer Spells
 The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it- a plane of existence shaped entirely by clock-work efficiency. You or someone from your lineage might have become entangled in the machinations of modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. What ever its origin within you, the power of order can seem strange to others, but for you, it's part of a vast and glorious system. 
 #### Level 3: Clockwork Spells
 
-| Sorcerer Level | Spells                                                        |
-| -------------- | ------------------------------------------------------------- |
-| 3              | Aid, Alarm, Lesser Restoration, Protection from Evil and Good |
-| 5              | Dlspel Magic, Protection from Energy                          |
-| 7              | Freedom of Movement, Summon Construct                         |
-| 9              | Greater Restoration, Wall of Force                            |
+| Sorcerer<br>Level | Spells                                                        |
+| :---------------: | ------------------------------------------------------------- |
+|         3         | Aid, Alarm, Lesser Restoration, Protection from Evil and Good |
+|         5         | Dlspel Magic, Protection from Energy                          |
+|         7         | Freedom of Movement, Summon Construct                         |
+|         9         | Greater Restoration, Wall of Force                            |
 
 In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your Sorcerer spells.
 ##### Manifestations of Order
 
 | 1d6 | Manifestation                                                                                |
-| --- | -------------------------------------------------------------------------------------------- |
-| 1   | Spectral cogwheels hover behind you                                                          |
-| 2   | The hands of a clock spin in your eyes                                                       |
-| 3   | Your skin glows with a brassy sheen                                                          |
-| 4   | Floating equations and geometric objects overlay your body                                   |
-| 5   | Your spellcasting focus temporarily takes the form of a Tiny clockwork mechanism             |
-| 6   | The ticking gears or ringing of a clock can be heard by you ad those affected by your magic. |
+| :-: | -------------------------------------------------------------------------------------------- |
+|  1  | Spectral cogwheels hover behind you                                                          |
+|  2  | The hands of a clock spin in your eyes                                                       |
+|  3  | Your skin glows with a brassy sheen                                                          |
+|  4  | Floating equations and geometric objects overlay your body                                   |
+|  5  | Your spellcasting focus temporarily takes the form of a Tiny clockwork mechanism             |
+|  6  | The ticking gears or ringing of a clock can be heard by you ad those affected by your magic. |
 #### Level 3: Restore Balance
 Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of yourself is about to roll a d20 with Advantage or Disadvantage, you can take a Reaction to prevent this roll from being affected by Advantage and Disadvantage.
 
