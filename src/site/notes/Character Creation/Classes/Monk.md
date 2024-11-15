@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/character-creation/classes/monk/"}
 ---
 
-![Monl_Icon.png](/img/user/Config/DATA/Image%20Storage/Monl_Icon.png)
+![Monk Icon Image.png](/img/user/Config/DATA/Image%20Storage/Monk%20Icon%20Image.png)
 
 | Primary Ability            | Dexterity and Wisdom                                                                                                                                          |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -125,7 +125,7 @@ You have developed your body and mind to new heights. Your Dexterity and Wisdom 
 # Monk Subclasses
 ## Warrior of Mercy
 *Manipulates Forces of Life and Death*
-![Pasted image 20241113212812.png](/img/user/Pasted%20image%2020241113212812.png)
+![Warrior of Mercy Image.png](/img/user/Config/DATA/Image%20Storage/Warrior%20of%20Mercy%20Image.png)
 Warriors of Mercy manipulate the life force of others. These Monks are wandering physicians, but they bring a swift end to their enemies. They often wear masks, presenting themselves as faceless bringers of life and death.
 #### Level 3: Hand of Harm
 Once per turn when you hit a creature with an Unarmed Strike and deal damage, you can expend 1 Focus Point to deal extra Necrotic damage equal to one roll of your Martial Arts die plus your Wisdom modifier.
@@ -169,7 +169,7 @@ As a Magic action while entirely within Dim Light or Darkness, you can expend 3 
 - ***Shadow Flurry.*** You can use your Flurry of Blows without expending any Focus Points
 ## Warrior of the Elements
 *Wield Strikes and Bursts of Elemental Power*
-![Pasted image 20241113212926.png](/img/user/Pasted%20image%2020241113212926.png)
+![Warrior of the Elements Image.png](/img/user/Config/DATA/Image%20Storage/Warrior%20of%20the%20Elements%20Image.png)
 Warriors of the Elements tap into the power of the Elemental Planes. Harnessing their supernatural focus, these Monks momentarily tame the energy of Elemental Chaos to empower themselves in and out of battle.
 #### Level 3: Elemental Attunement.
 At the start of your turn, you can expend 1 Focus Point to imbue yourself with elemental energy. The energy lasts fo 10 minutes or until you have the Incapacitated condition. You gain the following benefits while this feature is active.
@@ -190,7 +190,7 @@ While your Elemental Attunement is active, you also gain the following benefits.
 - ***Empowered Strikes.*** Once on each of your turns, you can deal extra damage to a target equal to one roll of your Martial Arts die when you hit with an Unarmed Strike. The extra damage is the same type dealt by that strike.
 ## Warrior of the Open Hand
 *Master Unarmed Combat Techniques*
-![Pasted image 20241113212512.png](/img/user/Pasted%20image%2020241113212512.png)
+![Warrior of the Open Hand Image.png](/img/user/Config/DATA/Image%20Storage/Warrior%20of%20the%20Open%20Hand%20Image.png)
 Warriors of the Open Hand are masters of unarmed combat. They learn techniques to push and trip their opponents and manipulate their own energy to protect themselves from harm.
 #### Level 3: Open Hand Technique
 Whenever you hit a creature with an attack granted by your Flurry of Blows, you can impose one of the following effects on that target.
