@@ -138,28 +138,28 @@ When you cast a spell, such as *Charm Person,* that can be cast with a higher-le
 ## Sorcerer Spell List
 ###### Cantrips (Level 0 Sorcerer Spells)
 
-| Spell            | School        | Special |
-| ---------------- | ------------- | :-----: |
-| Acid Splash      | Evocation     |    -    |
-| Blade Ward       | Abjuration    |    C    |
-| Chill Touch      | Necromancy    |    -    |
-| Dancing Lights   | Illusion      |    C    |
-| Elementalism     | Transmutation |    -    |
-| Fire Bolt        | Evocation     |    -    |
-| Friends          | Enchantment   |    C    |
-| Light            | Evocation     |    -    |
-| Mage Hand        | Conjuration   |    -    |
-| Mending          | Transmutation |    -    |
-| Message          | Transmutation |    -    |
-| Mind Sliver      | Enchantment   |    -    |
-| Minor Illusion   | Illusion      |    -    |
-| Poison Spray     | Necromancy    |    -    |
-| Prestidigitation | Transmutation |    -    |
-| Ray of Frost     | Evocation     |    -    |
-| Shocking Grasp   | Evocation     |    -    |
-| Sorcerous Burst  | Evocation     |    -    |
-| Thunderclap      | Evocation     |    -    |
-| True Strike      | Divination    |    -    |
+| Spell                                           | School        | Special |
+| ----------------------------------------------- | ------------- | :-----: |
+| [[Character Creation/Spells/Spell Descriptions#Acid Splash\|Acid Splash]] | Evocation     |    -    |
+| Blade Ward                                      | Abjuration    |    C    |
+| Chill Touch                                     | Necromancy    |    -    |
+| Dancing Lights                                  | Illusion      |    C    |
+| Elementalism                                    | Transmutation |    -    |
+| Fire Bolt                                       | Evocation     |    -    |
+| Friends                                         | Enchantment   |    C    |
+| Light                                           | Evocation     |    -    |
+| Mage Hand                                       | Conjuration   |    -    |
+| Mending                                         | Transmutation |    -    |
+| Message                                         | Transmutation |    -    |
+| Mind Sliver                                     | Enchantment   |    -    |
+| Minor Illusion                                  | Illusion      |    -    |
+| Poison Spray                                    | Necromancy    |    -    |
+| Prestidigitation                                | Transmutation |    -    |
+| Ray of Frost                                    | Evocation     |    -    |
+| Shocking Grasp                                  | Evocation     |    -    |
+| Sorcerous Burst                                 | Evocation     |    -    |
+| Thunderclap                                     | Evocation     |    -    |
+| True Strike                                     | Divination    |    -    |
 ###### Level 1 Sorcerer Spells
 
 | Spell                | School        | Special |
@@ -186,43 +186,41 @@ When you cast a spell, such as *Charm Person,* that can be cast with a higher-le
 | Sleep                | Enchantment   |    C    |
 | Thunderwave          | Evocation     |    -    |
 | Witch Bolt           | Evocation     |    C    |
+###### Level 2 Sorcerer Spells
 
-Level 2 Sorcerer Spells
-
-| Spell              | School        | Special |
-| ------------------ | ------------- | :-----: |
-| Alter Self         | Transmutation |    C    |
-| Arcane Vigor       | Abjuration    |    -    |
-| Blindness/Deafness | Transmutation |    -    |
-| Blur               | Illusion      |    C    |
-| Cloud of Daggers   | Conjuration   |    C    |
-| Crown of Madness   | Enchantment   |    C    |
-| Darkness           | Evocation     |    C    |
-| Darkvision         | Transmutation |    -    |
-| Detect Thoughts    | Divination    |    C    |
-| Dragon's Breath    | Transmutation |    C    |
-| Enhance Ability    | Transmutation |    C    |
-| Enlarge/Reduce     | Transmutation |    C    |
-| Flame Blade        | Evocation     |    C    |
-| Flaming Sphere     | Evocation     |    C    |
-| Gust of Wind       | Evocation     |    C    |
-| Hold Person        | Enchantment   |    C    |
-| Invisibility       | Illusion      |    C    |
-| Knock              | Transmutation |    -    |
-| Levitate           | Transmutation |    C    |
-| Magic Weapon       | Transmutation |    -    |
-| Mind Spike         | Divination    |    C    |
-| Mirror Image       | Illusion      |    -    |
-| Misty Step         | Conjuration   |    -    |
-| Phantasmal Force   | Illusion      |    C    |
-| Scorching Ray      | Evocation     |    -    |
-| See Invisibility   | Divination    |    -    |
-| Shatter            | Evocation     |    -    |
-| Spider Climb       | Transmutation |    C    |
-| Suggestion         | Enchantment   |    C    |
-| Web                | Conjuration   |    C    |
-
-Level 3 Sorcerer Spells
+| Spell                                         | School        | Special |
+| --------------------------------------------- | ------------- | :-----: |
+| [[Character Creation/Spells/Spell Descriptions#Alter Self\|Alter Self]] | Transmutation |    C    |
+| Arcane Vigor                                  | Abjuration    |    -    |
+| Blindness/Deafness                            | Transmutation |    -    |
+| Blur                                          | Illusion      |    C    |
+| Cloud of Daggers                              | Conjuration   |    C    |
+| Crown of Madness                              | Enchantment   |    C    |
+| Darkness                                      | Evocation     |    C    |
+| Darkvision                                    | Transmutation |    -    |
+| Detect Thoughts                               | Divination    |    C    |
+| Dragon's Breath                               | Transmutation |    C    |
+| Enhance Ability                               | Transmutation |    C    |
+| Enlarge/Reduce                                | Transmutation |    C    |
+| Flame Blade                                   | Evocation     |    C    |
+| Flaming Sphere                                | Evocation     |    C    |
+| Gust of Wind                                  | Evocation     |    C    |
+| Hold Person                                   | Enchantment   |    C    |
+| Invisibility                                  | Illusion      |    C    |
+| Knock                                         | Transmutation |    -    |
+| Levitate                                      | Transmutation |    C    |
+| Magic Weapon                                  | Transmutation |    -    |
+| Mind Spike                                    | Divination    |    C    |
+| Mirror Image                                  | Illusion      |    -    |
+| Misty Step                                    | Conjuration   |    -    |
+| Phantasmal Force                              | Illusion      |    C    |
+| Scorching Ray                                 | Evocation     |    -    |
+| See Invisibility                              | Divination    |    -    |
+| Shatter                                       | Evocation     |    -    |
+| Spider Climb                                  | Transmutation |    C    |
+| Suggestion                                    | Enchantment   |    C    |
+| Web                                           | Conjuration   |    C    |
+###### Level 3 Sorcerer Spells
 
 | Spell                  | School        | Special |
 | ---------------------- | ------------- | :-----: |
@@ -247,8 +245,7 @@ Level 3 Sorcerer Spells
 | Vampiric Touch         | Necromancy    |    C    |
 | Water Breathing        | Transmutation |    R    |
 | Water Walk             | Transmutation |    R    |
-
-Level 4 Sorcerer Spells
+###### Level 4 Sorcerer Spells
 
 | Spell                | School        | Special |
 | -------------------- | ------------- | :-----: |
@@ -265,8 +262,7 @@ Level 4 Sorcerer Spells
 | Stoneskin            | Transmutation |  C, M   |
 | Vitriolic Sphere     | Evocation     |    -    |
 | Wall of Fire         | Evocation     |    C    |
-
-Level 5 Sorcerer Spells
+###### Level 5 Sorcerer Spells
 
 | Spell                | School        | Special |
 | -------------------- | ------------- | :-----: |
@@ -283,8 +279,7 @@ Level 5 Sorcerer Spells
 | Telekinesis          | Transmutation |    C    |
 | Teleportation Circle | Conjuration   |    M    |
 | Wall of Stone        | Evocation     |    C    |
-
-Level 6 Sorcerer Spells
+###### Level 6 Sorcerer Spells
 
 | Spell                     | School        | Special |
 | ------------------------- | ------------- | :-----: |
@@ -300,8 +295,7 @@ Level 6 Sorcerer Spells
 | Otiluke's Freezing Sphere | Evocation     |    -    |
 | Sunbeam                   | Evocation     |    C    |
 | True Seeing               | Divination    |    M    |
-
-Level 7 Sorcerer Spells
+###### Level 7 Sorcerer Spells
 
 | Spell                  | School        | Special |
 | ---------------------- | ------------- | :-----: |
@@ -313,8 +307,7 @@ Level 7 Sorcerer Spells
 | Prismatic Spray        | Evocation     |    -    |
 | Reverse Gravity        | Transmutation |    C    |
 | Teleport               | Conjuration   |    -    |
-
-Level 8 Sorcerer Spells
+###### Level 8 Sorcerer Spells
 
 | Spell            | School        | Special |
 | ---------------- | ------------- | :-----: |
@@ -324,8 +317,7 @@ Level 8 Sorcerer Spells
 | Incendiary Cloud | Conjuration   |    C    |
 | Power Word Stun  | Enchantment   |    -    |
 | Sunburst         | Evocation     |    -    |
-
-Level 9 Sorcerer Spells
+###### Level 9 Sorcerer Spells
 
 | Spell           | School        | Special |
 | --------------- | ------------- | :-----: |
