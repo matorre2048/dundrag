@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/character-creation/classes/druid/"}
 ---
 
-
+![Druid Icon.png](/img/user/Config/DATA/Druid%20Icon.png)
 
 | Primary Ability            | Wisdom                                                                                                                                   |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,7 +40,7 @@ You have learned to cast spells through the studying the mystical forces of natu
 
   If another Druid feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Druid spells for you. 
   
-- Changing Your Prepared Spells. Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells with other Druid spells for which you have spell slots.
+- ***Changing Your Prepared Spells.*** Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells with other Druid spells for which you have spell slots.
 - ***Spellcasting Ability.*** Wisdom is your spellcasting ability for your Druid spells.
 - ***Spellcasting Focus.*** You can use an Druidic Focus as a Spellcasting Focus for your Druid spells.
 #### Level 1: Druidic
@@ -74,7 +74,7 @@ When you cast the spell this way, the familiar is Fey and disappears when you fi
 You gain a Druid subclass of your choice. A subclass is a specialization that grants you features at certain Druid levels. For the rest of your career, you gain each of your subclass's features that are of your Druid level of lower.
 #### Level 4: Ability Score Improvement
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16.
-Level 5: Wild Resurgence
+#### Level 5: Wild Resurgence
 Once on each of your turns, if you have no uses of Wild Shape left, you can give yourself one use by expending a spell slot (no action required).
 
 In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, but you can't do so again until you finish a Long Rest.
@@ -274,6 +274,7 @@ The vitality of nature constantly booms within you, granting you the following b
 # Druid Subclasses
 ## Circle of the Land
 *Celebrate Connection to the Natural World*
+![Circle of the Land Image.png](/img/user/Config/DATA/Image%20Storage/Circle%20of%20the%20Land%20Image.png)
 The Circle of the Land comprises mystics and sages who safeguard ancient knowledge and rites. These Druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of their communities. 
 #### Level 3: Circle of the Land Spells
 Whenever you finish a Long Rest, choose one type of land: arid, polar, temperate, or tropical. Consult the table below that corresponds to the chosen type; you have the spells listed for your Druid level and lower prepared.
@@ -313,7 +314,7 @@ Whenever you finish a Long Rest, choose one type of land: arid, polar, temperate
 As a Magic actionm you can expend a use of your Wild Shape and choose a point within 60 feet of yourself. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius Sphere centered on that point. Each creature of your choice in the Sphere must make a Constitution saving throw against your spell save DC, taking 2d6 Necrotic damage on a failed save or half as much damage on a succesful one. Once creature of your choice in that area regains 2d6 Hit Points
 
 The damage and healing increase by 1d6 when you reach Druid levels 10 (3d6) and 14 (4d6).
-#### Level 6: Natural Recover
+#### Level 6: Natural Recovery
 You can cast one of the level 1+ spells that you have prepared from your Circle Spells feature without expending a spell slot, and you must finish a Long Rest before you do so again.
 
 In addition, when you finish a Short Rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your Druid level (round up), and none of them can be level 6+. For example, if you're a level 6 Druid, you can recover up to three levels' worth of spell slots. You can recover a level 3 spell slot, a level 2 and a level 1 spell slot. or three level 1 spell slots. Once you recover spell slots with this feature, you can't do so again until you finish a Long Rest. 
@@ -328,11 +329,12 @@ Nature's Ward
 | Temperate | Lightning  |
 | Tropical  | Poison     |
 #### Level 14: Nature's Sanctuary
-As a Magic action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot Cube on the ground within 120 feet of yourself. They last there for 1 minute or until you have the Incapacitated condition or die. You and your allies have Half Cover while in that area, and your allies gain the current REsistance of your Nature's Ward while there.
+As a Magic action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot Cube on the ground within 120 feet of yourself. They last there for 1 minute or until you have the Incapacitated condition or die. You and your allies have Half Cover while in that area, and your allies gain the current Resistance of your Nature's Ward while there.
 
-As a Bonus Action, you can move the CUbe up to 60 feet to the ground within 120 feet of yourself.
+As a Bonus Action, you can move the Cube up to 60 feet to the ground within 120 feet of yourself.
 ## Circle of the Moon
-Adopt Animal Forms to Guard the Wilds
+*Adopt Animal Forms to Guard the Wilds*
+![Circle of the Moon Image.png](/img/user/Config/DATA/Image%20Storage/Circle%20of%20the%20Moon%20Image.png)
 Druids of the Circle of the Moon draw on lunar magic to transform themselves. Their order gathers under the moon to share news and perform rituals.
 
 Changeable as the moon, a Druid of this circle might prowl as a great cat one night, soar over the treetops as an eagle the next day, and then crash through the undergrowth as a bear to drive off a trespassing monster. The wild is in the Druid's blood.
