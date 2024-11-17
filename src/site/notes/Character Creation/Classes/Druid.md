@@ -367,3 +367,78 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 The power of the moon suffuses you, granting you the following benefits.
 - ***Improved Lunar Radiance.*** Once per turn, you can deal an extra 2d10 Radiant damage to a target you hit with a Wild Shape form's attack.
 - ***Shared Moonlight.*** Whenever you use Moonlight Step, you can also teleport one willing creature. That creature must be within 10 feet of you and you teleport it to an unoccupied space you can see within 10 feet of your destination space. 
+
+## Circle of the Sea
+*Become One with Tides and Storms*
+![Circle of the Sea Image.png](/img/user/Config/DATA/Circle%20of%20the%20Sea%20Image.png)
+Druids of the Circle of the Sea draw on the tempestuos forces of oceans and storms. Some view themselves as embodiments of nature's wrath, seeking vengeance against those who despoil nature. Others seek mystical unity with nature by attuning themselves to the ebb and flow of the tides, following the rush of currents and waves and listening to the inscrutable whispers and roars of the winds.
+#### Level 3: Circle of the Sea Spells
+When you reach a Druid level specified in the Circle of the Sea Spells table, you thereafter always have the listed spells prepared.
+##### Circle of the Sea Spells
+
+| Druid Level | Prepared Spells                                             |
+| ----------- | ----------------------------------------------------------- |
+| 3           | Fog Cloud, Gust of Wind, Ray of Frost, Shatter, Thunderwave |
+| 5           | Lightning Bolt, Water Breathing                             |
+| 7           | Control Water, Ice Storm                                    |
+| 9           | Conjure Elemental, Hold Monster                             |
+#### Level 3: Wrath of the Sea
+As a Bonus Action, you can expend a use of your Wild Shape to manifest 5-foot Emanation that takes the form of ocean spray that surrounds you for 10 minutes. It ends early if you dismiss (no action required), manifest again, or have the Incapacitated condition.
+
+When you manifest the Emanation and as a Bonus Action on your subsequent turns, you can choose another creature you can see in the Emanation. The target must succeed on a Constitution saving throw against your spell save DC or take Cold damage and, if the creature is Large or smaller, be pushed up to 15 feet away from you. To determine this damage, roll a number of d6s equal to your Wisdom modifier (minimum of one die).
+Level 6: Aquatic Affinity
+The size of the Emanation created by your Wrath of the Sea increases to 10 feet. 
+
+In addition, you gain a Swim Speed equal to your Speed.
+#### Level 10: Stormborn
+Your Wrath of the Sea confers two more benefits while active, as detailed below.
+- ***Flight.*** You gain a Fly Speed equal to your Speed.
+- ***Resistance.*** You have Resistance to Cold, Lightning, and Thunder damage.
+##### Level 14: Oceanic Gift
+Instead of manifesting the Emanation of Wrath of the Sea around yourself, you can manifest it around one willing creature within 60 feet of yourself. That creature gains all the benefits of the Emanation and uses your spell save DC and Wisdom modifier for it. 
+
+In addition, you can manifest the Emanation around both the other creature and yourself if you expend two uses of your Wild Shape instead of one when manifesting it.
+## Circle of the Stars
+*Harness Secrets Hidden in Constellations*
+![Circle of the Stars Image.png](/img/user/Config/DATA/Circle%20of%20the%20Stars%20Image.png)
+The Circle of the Storm has tracked heavenly patterns since time immemorial, discovering secrets hidden amid the constellations. By understanding these secrets, the Druids of the circle seek to harness the powers of the cosmos. 
+#### Level 3: Star Map
+You've created a star chart as part of your heavenly studies. It is a Tiny object, and you can use it as a Spellcasting Focus for your Druid spells. You determine its form by rolling on the Star Map table or by choosing one.
+
+While holding the map, you have the Guidance and Guiding Bolt spells prepared, and you can cast Guidance Bolt without expending a spell slot. You can cast it in that way a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest. 
+
+If you lose the map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a Short or Long Rest, and it destroys the previous map.
+##### Star Map
+
+| 1d6 | Map Form                                          |
+| --- | ------------------------------------------------- |
+| 1   | A scroll bearing depictions of constellations     |
+| 2   | A stone tablet with fine holes drilled through it |
+| 3   | An owlbear hide tooled with stellar symbols       |
+| 4   | A collection of maps bound in an ebony cover      |
+| 5   | A crystal engraved with starry patterns           |
+| 6   | A glass disk etched with constellations           |
+#### Level 3: Starry Form
+As a Bonus Action, you can expend a use of your Wild Shape feature to take on a starry form rather than shape-shifting.
+
+While in your starry form, you retain your game statistics, but your body become luminous, your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds Bright Light in a 10-foot radius and Dim Light for an additional 10 feet. The form lasts for 10 minutes. It ends early if you dismiss it (no action required), have the Incapacitated condition, or use this feature again.
+
+Whenever you assume your starry form, choose which of the following constellations glimmers on your body; your choice gives you certain benefits while in the form.
+
+- ***Archer.*** A constellation of an archer appears on you. When you activate this form and as a Bonus Action on your subsequent turns while it lasts, you can make a ranged spell attack, hurling a luminous arrow the targets one creature within 60 feet of yourself. On a hit, the attack deals Radiant damage equal to 1d8 plus your Wisdom modifier.
+- ***Chalice.*** A constellation of a life-giving goblet appears on you. Whenever you cast a spell using a spell slot that restores Hit Points to a creature, you or another creature within 30 feet of you can regain Hit Points equal to 1d8 plus your Wisdom modifier. 
+- ***Dragon.*** A constellation of a wise dragon appears on you. When you make an Intelligence or a Wisdom check or Constitution saving throw to maintain Concentration, you can treat a roll of 9 or lower on the d20 as a 10.
+
+#### Level 6: Cosmic Omen
+Whenever you finish a Long Rest, you can consult your Star Map for omens and roll a die. Until you finish your next Long Rest, you gain access to a special Reaction based on whether you rolled an even or an odd number on the die:
+
+- **Weal (Even).** Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a Reaction to roll 1d6 and add the number rolled to the total.
+- Weal (Odd). Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a Reaction to roll 1d6 and subtract the number rolled from the total.
+
+You can use this Reaction a number of times equal to your Wisdom modifier (minimum of once), and you regain all expanded uses when you finish a Long Rest. 
+#### Level 10: Twinkling Constellations
+The constellations of your Starry Form improve. The 1d8 of the Archer and the Chalice becomes 2d8, and while the Dragon is active, you have a Fly Speed of 20 feet and can hover. 
+
+Moreover, at the start of each of your turns while in your Starry Form, you can change which constellation glimmers on your body.
+#### Level 14: Full of Stars
+While in your Starry Form, you become partially incorporeal, giving you Resistance to Bludgeoning, Piercing, and Slashing damage.
