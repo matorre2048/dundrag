@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/character-creation/classes/monk/"}
 ---
 
-![Monk Icon Image.png](/img/user/Config/DATA/Image%20Storage/Monk%20Icon%20Image.png)
+![[Monk Icon Image.png \| center ]]
 
 | Primary Ability            | Dexterity and Wisdom                                                                                                                                          |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
