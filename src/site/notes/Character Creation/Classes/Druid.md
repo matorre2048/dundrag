@@ -3,8 +3,7 @@
 ---
 
 
-![[Druid Icon.png \| Center ]]
-
+![[Druid Icon.png \| center ]]
 
 | Primary Ability            | Wisdom                                                                                                                                   |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -435,7 +434,7 @@ Whenever you assume your starry form, choose which of the following constellatio
 Whenever you finish a Long Rest, you can consult your Star Map for omens and roll a die. Until you finish your next Long Rest, you gain access to a special Reaction based on whether you rolled an even or an odd number on the die:
 
 - **Weal (Even).** Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a Reaction to roll 1d6 and add the number rolled to the total.
-- Weal (Odd). Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a Reaction to roll 1d6 and subtract the number rolled from the total.
+- *Weal (Odd).* Whenever a creature you can see within 30 feet of you is about to make a D20 Test, you can take a Reaction to roll 1d6 and subtract the number rolled from the total.
 
 You can use this Reaction a number of times equal to your Wisdom modifier (minimum of once), and you regain all expanded uses when you finish a Long Rest. 
 #### Level 10: Twinkling Constellations
