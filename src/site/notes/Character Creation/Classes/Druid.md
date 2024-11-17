@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/character-creation/classes/druid/"}
 ---
 
-![Druid Icon.png](/img/user/Config/DATA/Druid%20Icon.png)
+
+![[Druid Icon.png \| Center ]]
+
 
 | Primary Ability            | Wisdom                                                                                                                                   |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
