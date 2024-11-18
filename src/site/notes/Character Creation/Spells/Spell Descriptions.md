@@ -257,9 +257,47 @@ The spell doesn't account for circumstances, such as other spells, that might ch
 If you cast the spell more than once before finishing a Long Rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer.
 
 ---
+## Aura of Life
+*Level 4 Abjuration (Cleric, Paladin)*
+- **Casting Time:** Action
+- **Range**: Self
+- **Components**: V
+- **Duration**: Concentration, up to 10 minutes
 
+An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Resistance to Necrotic damage, and your Hit Point maximums can't be reduced. If an ally with 0 Hit Points starts its turn in the aura, that ally regains 1 Hit Point.
 
+---
+## Aura of Purity
+*Level 4 Abjuration (Cleric, Paladin)*
+- **Casting Time:** Action
+- **Range**: Self
+- **Components**: V
+- **Duration**: Concentration, up to 10 minutes
 
+An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Resistance to Poisson damage and Advantage on saving throws to avoid or end effects that include the Blinded, Charmed, Deafened, Frightened, Paralyzed, Poisoned, or Stunned condition.
+
+---
+## Aura of Vitality
+*Level 3 Abjuration (Cleric, Druid, Paladin)*
+- **Casting Time:** Action
+- **Range**: Self
+- **Components**: V
+- **Duration**: Concentration, up to 1 minute
+
+An aura radiates from you in a 30-foot Emanation for the duration. When you create the aura and at the start of each of you turns while it persists, you can restore 2d6 Hit Points to one creature in it.
+
+---
+
+## Awaken
+*Level 5 Transmutation (Bard, Druid)*
+- **Casting Time:** 8 hours
+- **Range**: Touch
+- **Components**: V, S, M (an agate worth 1,000+ GP, which the spell consumes)
+- **Duration**: Instantaneous
+
+You spend the casting time tracing magical pathways within a precious gemstone, and then touch the target. The target must be either a Beast or Plant creature within an Intelligence of 3 or less or natural plant that isn't a creature. The target gains an Intelligence of 10 and the ability to speak one language you know. If the target is a natural plant, it becomes a Plant creature and gains the ability to move its limbs, roots, vines, creepers, and so forth, and its gains senses similar to a human's. The DM chooses statistics appropriate for the awakened Plant, such as the statistics for the Awakened Shrub or Awakened Tree in the Monster Manual.
+
+The awakened target has the Charmed condition for 30 days or until you or your allies deal damage to it. When that condition ends, the awakened creature chooses its attitude toward you.
 ## Cure Wounds
 ## Druidcraft
 ## Faerie Fire
