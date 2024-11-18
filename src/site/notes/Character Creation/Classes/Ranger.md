@@ -21,6 +21,30 @@ As a Multiclass Character
 - Gain the following traits from the Core Ranger Traits table: Hit Point Die, proficiency with Martial weapons, proficiency in one skill of your choice from the Ranger's skill list, and training with Light and Medium armor and Shields.
 - Gain the Ranger's level 1 features, which are listed in the Ranger Features table. See the multiclassing rules in chapter 2 to determine your available spell slots.
 ## Ranger Class Features
+
+| Level | Proficiency<br>Bonus | Class Features                              | Favored<br>Enemy | Prepared<br>Spells |  1  |  2  |  3  |  4  |  5  |
+| :---: | :------------------: | :------------------------------------------ | :--------------: | :----------------: | :-: | :-: | :-: | :-: | :-: |
+|   1   |          +2          | Spellcasting, Favored Enemy, Weapon Mastery |        2         |         2          |  2  |  -  |  -  |  -  |  -  |
+|   2   |          +2          | Deft Explorer, Fighting Style               |        2         |         3          |  2  |  -  |  -  |  -  |  -  |
+|   3   |          +2          | Ranger Subclass                             |        2         |         4          |  3  |  -  |  -  |  -  |  -  |
+|   4   |          +2          | Ability Score Improvement                   |        2         |         5          |  3  |  -  |  -  |  -  |  -  |
+|   5   |          +3          | Extra Attack                                |        3         |         6          |  4  |  2  |  -  |  -  |  -  |
+|   6   |          +3          | Roving                                      |        3         |         6          |  4  |  2  |  -  |  -  |  -  |
+|   7   |          +3          | Subclass feature                            |        3         |         7          |  4  |  3  |  -  |  -  |  -  |
+|   8   |          +3          | Ability Score Improvement                   |        3         |         7          |  4  |  3  |  -  |  -  |  -  |
+|   9   |          +4          | Expertise                                   |        4         |         9          |  4  |  3  |  2  |  -  |  -  |
+|  10   |          +4          | Tireless                                    |        4         |         9          |  4  |  3  |  2  |  -  |  -  |
+|  11   |          +4          | Subclass feature                            |        4         |         10         |  4  |  3  |  3  |  -  |  -  |
+|  12   |          +4          | Ability Score Improvement                   |        4         |         10         |  4  |  3  |  3  |  -  |  -  |
+|  13   |          +5          | Relentless Hunter                           |        5         |         11         |  4  |  3  |  3  |  1  |  -  |
+|  14   |          +5          | Nature's Veil                               |        5         |         11         |  4  |  3  |  3  |  1  |  -  |
+|  15   |          +5          | Subclass feature                            |        5         |         12         |  4  |  3  |  3  |  2  |  -  |
+|  16   |          +5          | Ability Score Improvement                   |        5         |         12         |  4  |  3  |  3  |  2  |  -  |
+|  17   |          +6          | Precise Hunter                              |        6         |         14         |  4  |  3  |  3  |  3  |  1  |
+|  18   |          +6          | Feral Senses                                |        6         |         14         |  4  |  3  |  3  |  3  |  1  |
+|  19   |          +6          | Epic Boon                                   |        6         |         15         |  4  |  3  |  3  |  3  |  2  |
+|  20   |          +6          | Foe Slayer                                  |        6         |         15         |  4  |  3  |  3  |  3  |  2  |
+
 #### Level 1: Spellcasting
 You have learned to channel the magical essence of nature to cast spells. The information below details how you spellcasting rules with Ranger spells, which appear in the Ranger spell list later in the class's description.
 - ***Spell Slots.*** The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
