@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/character-creation/classes/sorcerer/"}
 ---
 
-	![Sorcerer Icon Image.png](/img/user/Config/DATA/Image%20Storage/Sorcerer%20Icon%20Image.png)
+![Sorcerer Icon Image.png](/img/user/Config/DATA/Image%20Storage/Sorcerer%20Icon%20Image.png)
 
 | Primary Ability            | Charisma                                                                                                  |
 | -------------------------- | --------------------------------------------------------------------------------------------------------- |
