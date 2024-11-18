@@ -214,25 +214,25 @@ You can augment your weapon strikes with mind-scarring magic drawn from the murk
 When you reach a Ranger level specified in the Fey Wanderer Spells table, you thereafter always have the listed spells prepared.
 ##### Fey Wanderer Spells
 
-| Ranger Level | Spell          |
-| ------------ | -------------- |
-| 3            | Charm Person   |
-| 5            | Misty Step     |
-| 9            | Summon Fey     |
-| 13           | Dimension Door |
-| 17           | Mislead        |
+| Ranger<br>Level | Spell          |
+| :-------------: | -------------- |
+|        3        | Charm Person   |
+|        5        | Misty Step     |
+|        9        | Summon Fey     |
+|       13        | Dimension Door |
+|       17        | Mislead        |
 
 You also possess a fey blessing. Choose it from the Feywild Gifts table or determine it randomly.
 ##### Feywild Gifts
 
 | 1d6 | Gift                                                                                  |
-| --- | ------------------------------------------------------------------------------------- |
-| 1   | Illusory butterflies flutter around you while you take a Short or Long Rest.          |
-| 2   | Flowers bloom from your hair each dawn.                                               |
-| 3   | You faintly smell of cinnamon, lavender, nutmeg, or another comforting herb or spice. |
-| 4   | Your shadow danced while no one is looking directly at it.                            |
-| 5   | Horns or antlers sprout from your head.                                               |
-| 6   | Your skin and hair change color each dawn.                                            |
+| :-: | ------------------------------------------------------------------------------------- |
+|  1  | Illusory butterflies flutter around you while you take a Short or Long Rest.          |
+|  2  | Flowers bloom from your hair each dawn.                                               |
+|  3  | You faintly smell of cinnamon, lavender, nutmeg, or another comforting herb or spice. |
+|  4  | Your shadow danced while no one is looking directly at it.                            |
+|  5  | Horns or antlers sprout from your head.                                               |
+|  6  | Your skin and hair change color each dawn.                                            |
 #### Level 3: Otherworldly Glamour
 Whenever you make a Charisma Check, you gain a bonus to the check equal to your Wisdom modifier (minimum of +1). 
 
@@ -262,13 +262,13 @@ You have mastered the art of creating fearsome ambushes granting you the followi
 When you reach a Ranger level specified in the Gloom Stalker Spells table, you thereafter always have the listed spells prepared.
 Gloom Stalker Spells
 
-| Ranger Level | Spells               |
-| ------------ | -------------------- |
-| 3            | Disguise Self        |
-| 5            | Rope Trick           |
-| 9            | Fear                 |
-| 13           | Greater Invisibility |
-| 17           | Seeming              |
+| Ranger<br>Level | Spells               |
+| :-------------: | -------------------- |
+|        3        | Disguise Self        |
+|        5        | Rope Trick           |
+|        9        | Fear                 |
+|       13        | Greater Invisibility |
+|       17        | Seeming              |
 #### Level 3: Umbral Sight
 You gain Darkvision with a range of 60 feet. If you already have Darkvision when you gain this feature, its range increases by 60 feet. 
 
