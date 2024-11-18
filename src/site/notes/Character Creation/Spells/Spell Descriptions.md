@@ -95,11 +95,178 @@ On each of your turns, you can take a Bonus Action to mentally command any creat
 
 The creature is under your control for 24 hours, after which it stops obeying any command you've given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell rather than animating a new creature.
 - ***Using a Higher-Level Spell Slot.*** You animate or reassert control over two additional Undead creatures for each spell slot level above 3. Each of the creatures must come from a different corpse or pile of bones.
+---
+## Animate Objects
+*Level 5 Transmutation (Bard, Sorcerer, Wizard)*
+- **Casting Time:** Action
+- **Range**: 120 feet
+- **Components**: V, S
+- **Duration**: Concentration, up to 1 minute
+
+Objects animate at your command. Choose a number of nonmagical objects within range that aren't being worn or carried, aren't fixed to a surface, and aren't Gargantuan. The maximum number of objects is equal to your spellcasting ability modifier; for this number, a Medium or smaller target counts as one object, a Large target counts as two, and a Huge target counts as three.
+
+Each target animates, sprouts legs, and becomes a Construct that uses the Animated Object stat block; this creature is under your control until the spell ends or until it is reduced to 0 Hit Points. Each creature you make with this spell is an ally to you and your allies. In combat, it shares your Initiative count and takes its turn immediately after yours.
+
+Until the spell ends, you can take a Bonus Action to mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any of them at the same time, issuing the same command to each one). If you issue no commands, the creature takes the Dodge action and moves only to avoid harm. When the creature drops to 0 Hit Points, it reverts to its object form, and any remaining damage carries over to that form.
+- ***Using a Higher-Level Spell Slot.*** The creature's Slam damage increases by 1d4 (Medium or smaller), 1d6 (Large), or 1d12 (Huge) for each spell slot level above 5.
+---
+## Antilife Shell
+*Level 5 Abjuration (Druid)*
+- **Casting Time:** Action
+- **Range**: Self
+- **Components**: V, S
+- **Duration**: Concentration, up to 1 hour
+
+An aura extends from you in a 10-foot Emanation for the duration. The aura prevents creatures other than Constructs and Undead from passing or reaching through it. An affected creature can cast spells or make attacks with Ranged or Reach weapons through the barrier.
+
+If you move so that an affected creature is forced to pass through the barrier, the spell ends.
+
+---
+## Antimagic Field
+*Level 8 Abjuration (Cleric, Wizard)*
+- **Casting Time:** Action 
+- **Range**: Self
+- **Components**: V, S, M (iron filings)
+- **Duration**: Concentration, up to 1 hour
+
+An aura of antimagic surrounds you in a 10-foot Emanation. No one can cast spells, take Magic actions, or create other magical effects inside the aura, and those things can't target or otherwise affect anything inside it. Magical properties of magic items don't work inside the aura or on anything inside it.
+
+Areas of effect created by spells or other magic can't extend into the aura, and no one can teleport into or out of it or use planar travel there. Portals close temporarily while in the aura.
+
+Ongoing spells, except those cast by an Artifact or a deity, are suppressed in the area. While an effect is suppressed, it doesn't function, but the time it spends suppressed counts against its duration.
+
+Dispel Magic has no effect on the aura, and the auras created by different Antimagic Field spells don't nullify each other.
+
+---
+## Antipathy/Sympathy
+*Level 8 Enchantment (Bard, Druid, Wizard)*
+- **Casting Time:** 1 hour 
+- **Range**: 60 feet
+- **Components**: V, S, M (a mix of vinegar and honey)
+- **Duration**: 10 days
+
+As you cast the spell, choose whether it creates antipathy or sympathy, and target one creature or object that is Huge or smaller. Then specify a kind of creature, such as red dragons, goblins, or vampires. A creature of the chosen kind makes a Wisdom saving throw when it comes within 120 feet of the target. Your choice of antipathy or sympathy determines what happens to a creature when it fails that save:
+- **Antipathy.** The creature has the Frightened condition. The Frightened creature must use its movement on its turns to get as far away as possible from the target, moving by the safest route.
+- **Sympathy.** The creature has the Charmed condition. The Charmed creature must use its movement on its turns to get as close as possible to the target, moving by the safest route. If the creature is within 5 feet of the target, the creature can't willingly move away. If the target damages the Charmed creature, that creature can make a Wisdom saving throw to end the effect, as described below.
+
+- ***Ending the Effect.*** If the Frightened or Charmed creature ends its turn more than 120 feet away from the target, the creature makes a Wisdom saving throw. On a successful save, the creature is no longer affected by the target. A creature that successfully saves against this effect is immune to it for 1 minute, after which it can be affected again.
+
+---
+## Arcane Eye
+*Level 4 Divination (Wizard)*
+- **Casting Time:** Action
+- **Range**: 30 feet
+- **Components**: V, S, M (a bit of bat fur)
+- **Duration**: 
+You create an Invisible, invulnerable eye within range that hovers for the duration. You mentally receive visual information from the eye, which can see in every direction. It also has darkvision with a range of 30 feet. 
+
+As a Bonus Action, you can move the eye up to 30 feet in any direction. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter.
+
+---
+## Arcane Gate
+*Level 6 Conjuration (Sorcerer, Warlock, Wizard)*
+- **Casting Time:** Action
+- **Range**: 500 feet
+- **Components**: V, S
+- **Duration**: Concentration, up to 10 minutes
+You create linked teleportation portals. Choose two Large, unoccupied spaces on the ground that you can see, one space within range and the other one within 10 feet of you. A circular portal opens in each of those spaces and remains for the duration. 
+
+The portals are two-dimensional glowing rings filled with mist that blocks sight. They hover inches from the ground and are perpendicular to it.
+
+A portal is open on only one side (you choose which). Anything entering the open side of a portal exits from the open side of the other portal as if the two were adjacent to each other. As a Bonus Action, you can change the facing of the open sides.
+
+---
+## Arcane Lock
+*Level 2 Abjuration (Wizard)*
+- **Casting Time:** Action
+- **Range**: Touch
+- **Components**: V, S, M (gold dust worth 25+ GP, which the spell consumes) 
+- **Duration**: Until dispelled
+You touch a closed door, window, gate, container, or hatch and magically lock it for the duration. This lock can't be unlocked by any nonmagical means. You and any creatures you designate when you cast the spell can open and close the object despite the lock. You can also set a password that, when spoken within 5 feet of the object, unlocks it for 1 minute.
+
+---
+## Arcane Vigor
+*Level 2 Abjuration (Sorcerer, Wizard)*
+- **Casting Time:** Bonus Action
+- **Range**: Self
+- **Components**: V, S
+- **Duration**: Instantaneous
+You tap into your life force to heal yourself. Roll one or two of your unexpended Hit Point Dice, and regain a number of Hit Points equal to the roll's total plus your spellcasting ability modifier. Those dice are the expended.
+- ***Using a Higher-Level Spell Slot.*** The number of unexpended Hit Dice you can roll increases by one for each spell slot level above 2.
+
+---
+## Armor of Agathys
+*Level 1 Abjuration (Warlock)*
+- **Casting Time:** Bonus Action
+- **Range**: Self
+- **Components**: V, S, M (a shard of blue glass)
+- **Duration**: 1 hour
+
+Protective magical frost surrounds you. You gain 5 Temporary Hit Points. If a creature hits you with a melee attack roll before the spell ends, the creature takes 5 Cold damage. The spell ends early if you have no Temporary Hit Points.
+- ***Using a Higher-Level Spell Slot.*** The Temporary Hit Points and the Cold damage both increase by 5 for each spell slot level above 1.
+
+---
+## Arms of Hadar
+*Level 1 Conjuration (Warlock)*
+- **Casting Time:** Action
+- **Range**: Self
+- **Components**: V, S
+- **Duration**: Instantaneous
+
+Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a 10-foot Emanation originating from you makes a Strength saving throw. On a failed save, a target takes 2d6 Necrotic damage and can't take Reactions until the start of its next turn. On a successful save, a target takes half as much damage only.
+- ***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.
+
+---
+## Astral Projection
+*Level 9 Necromancy (Cleric, Warlock, Wizard)*
+- **Casting Time:** 1 hour
+- **Range**: 10 feet
+- **Components**: V, S, M (for each of the spell's targets, one jacinth worth 1,000+ GP and one silver bar worth 100+ GP, all of which the spell consumes)
+- **Duration**: Until dispelled
+
+You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell ends instantly if you are already on that plane). Each target's body is left behind in a state of suspended animation; it has the Unconscious condition, doesn't need food or air, and doesn't age.
+
+A target's astral form resembles its body in almost every way, replicating its game statistics and possessions. The principal difference is the addition of a silvery cord that trails from between the shoulder blades of the astral form. The cord fades from view after 1 foot. If the cord is cut--which happens only when an effect states that it does so--the target's body and astral form both die.
+
+A target's astral form can travel through the Astral plane. The moment an astral form leaves that plane, the target's body and possessions travel along the silver cord, causing the target to re-enter its body on the new plane.
+
+Any damage or other effects that apply to an astral form have no effect on the target's body and vice versa. If a target's body or astral form drops to 0 Hit Points, the spell ends for the target. The spell ends for all the targets if you take a Magic action to dismiss it.
+
+When the spell ends for a target who isn't dead, the target reappears in its body and exits the state of suspended animation.
+
+---
+## Augury
+*Level 2 Divination (Cleric, Druid, Wizard)*
+- **Casting Time:** 1 minute or Ritual
+- **Range**: Self
+- **Components**: V, S, M (specially marked sticks, bones, cards, or other divinatory tokens worth 25+ GP)
+- **Duration**: Instantaneous
+
+You receive an omen from an otherworldly entity about the results of a course of action that you plan to take within the next 30 minutes. The DM chooses the omen from the Omens table.
+##### Omens
+
+| Omen         | For Results That Will Be... |
+| ------------ | --------------------------- |
+| Weal         | Good                        |
+| Woe          | Bad                         |
+| Weal and woe | Good and bad                |
+| Indifference | Neither good nor bad        |
+
+The spell doesn't account for circumstances, such as other spells, that might change the results.
+
+If you cast the spell more than once before finishing a Long Rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer.
+
+---
+
+
+
 ## Cure Wounds
 ## Druidcraft
 ## Faerie Fire
 ## Light
 ## Prestidigitation
+## Produce Flame
 ## Shocking Grasp
 ## Sorcerous Burst
+## Speak With Animals
 ## Thunderwave
