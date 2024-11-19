@@ -287,7 +287,6 @@ An aura radiates from you in a 30-foot Emanation for the duration. While in the 
 An aura radiates from you in a 30-foot Emanation for the duration. When you create the aura and at the start of each of you turns while it persists, you can restore 2d6 Hit Points to one creature in it.
 
 ---
-
 ## Awaken
 *Level 5 Transmutation (Bard, Druid)*
 - **Casting Time:** 8 hours
@@ -298,13 +297,130 @@ An aura radiates from you in a 30-foot Emanation for the duration. When you crea
 You spend the casting time tracing magical pathways within a precious gemstone, and then touch the target. The target must be either a Beast or Plant creature within an Intelligence of 3 or less or natural plant that isn't a creature. The target gains an Intelligence of 10 and the ability to speak one language you know. If the target is a natural plant, it becomes a Plant creature and gains the ability to move its limbs, roots, vines, creepers, and so forth, and its gains senses similar to a human's. The DM chooses statistics appropriate for the awakened Plant, such as the statistics for the Awakened Shrub or Awakened Tree in the Monster Manual.
 
 The awakened target has the Charmed condition for 30 days or until you or your allies deal damage to it. When that condition ends, the awakened creature chooses its attitude toward you.
+
+---
 ## Cure Wounds
+*Level 1 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
+- **Casting Time:** Action
+- **Range**: Touch
+- **Components**: V, S 
+- **Duration**: Instantaneous
+
+A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier.
+- ***Using a Higher-Level Spell Slot.*** The healing in creases by 2d8 for each spell slot level above 1.
+
+---
 ## Druidcraft
+*Transmutation Cantrip (Druid)*
+- **Casting Time:** Action
+- **Range**: 30 feet
+- **Components**: V, S
+- **Duration**: Instantaneous
+
+Whispering to the spirts of nature, you create one of the following effects within range. 
+- ***Weather Sensor.*** You create a Tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.
+- ***Bloom.*** You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.
+- ***Sensory Effect.*** You create a harmless sensory effect, such as falling leaves, spectral dancing fairies, a gentle breeze, the sound of an animal, or the faint odor of skunk. The effect must fit in a 5-foot Cube.
+- ***Fire Play.*** You light or snuff out a candle, a torch, or a campfire.
+
+---
 ## Faerie Fire
+*Level 1 Evocation (Bard, Druid)*
+- **Casting Time:** Action
+- **Range**: 60 feet
+- **Components**: V
+- **Duration**: Concentration, up to 1 minute
+
+Objects in a 20-foot Cube within range are outlined in blue, green, or violet light (your choice). Each creature in the Cube is also outlined if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed Dim Light in a 10-foot radius and can't benefit from the Invisible condition.
+
+Attack rolls against an affected creature or object have Advantage if the attacker can see it.
+
+---
 ## Light
+*Evocation Cantrip (Bard, Cleric, Sorcerer, Wizard)*
+- **Casting Time:** Action
+- **Range**: Touch
+- **Components**: V, M (a firefly or phosphorescent moss) 
+- **Duration**: 1 hour
+
+You touch one Large or smaller object that isn't being worn or carried by someone else. Until the spell ends, the object sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. The light can be colored as you like. 
+
+Covering the object with something opaque blocks the light. The spell ends if you cast it again.
+
+---
 ## Prestidigitation
+*Transmutation Cantrip (Bard, Sorcerer, Warlock, Wizard)*
+- **Casting Time:** Action
+- **Range**: 10 feet
+- **Components**: V, S
+- **Duration**: Up to 1 hour
+
+You create a magical effect within range. Choose the effect from the options below. If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time.
+- ***Sensory Effect.*** You create an instantaneous, harmless, sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
+- ***Fire Play.*** You instantaneously light or snuff out a candle, a torch, or a small campfire.
+- ***Clean or Soil.*** You instantaneously clean or soil an object no larger than 1 cubic foot.
+- ***Minor Sensation.*** You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
+- ***Magic Mark.*** You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
+- ***Minor Creation.*** You create a nonmagical trinket or an illusory image that can fit in your hand. It lasts until the end of your next turn. A trinket can deal no damage and has no monetary worth.
+
+---
 ## Produce Flame
+*Conjuration Cantrip (Druid)*
+- **Casting Time:** Bonus Action
+- **Range**: Self
+- **Components**: V, S
+- **Duration**: 10 minutes
+
+A flickering flame appears in your hand and remains there for the duration. While there, the flame emits no heat and ignites nothing, and it sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. The spell ends if you cast it again.
+
+Until the spell ends, you can take a Magic action to hurl fire at a creature or an object within 60 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 Fire damage.
+- ***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8). 
+
+---
 ## Shocking Grasp
+*Evocation Cantrip (Sorcerer, Wizard)*
+- **Casting Time:** Action
+- **Range**: Touch
+- **Components**: V, S
+- **Duration**: Instantaneous
+
+Lightning springs from you to a creature that you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d8 Lightning damage, and it can't make Opportunity Attacks until the start of its next turn.
+- ***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
+
+---
 ## Sorcerous Burst
+*Cantrip Evocation (Sorcerer)*
+- **Casting Time:** Action
+- **Range**: 120 feet
+- **Components**: V, S
+- **Duration**: Instantaneous
+
+You cast sorcerous energy at one creature or object within range. Make a ranged attack roll against the target. On a hit, the target takes 1d8 damage of a type you choose: Acid, Cold, Fire, Lightning, Poison, Psychic, or Thunder.
+
+If you roll an 8 on a d8 for this spell, you can roll another d8, and add it to the damage. When you cast this spell, the maximum number of these d8s you can add to the spell's damage equals your spellcasting ability modifier.
+- ***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
+
+---
 ## Speak With Animals
+*Level 1 Divination (Bard, Druid, Ranger, Warlock)*
+- **Casting Time:** Action or Ritual
+- **Range**: Self
+- **Components**: V, S
+- **Duration**: 10 minutes
+
+For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the Influence action's skill options with them. 
+
+Most Beasts have little to say about topics that don't pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day.
+
+---
 ## Thunderwave
+*Level 1 Evocation (Bard, Druid, Sorcerer, Wizard)*
+- **Casting Time:** Action
+- **Range**: Self
+- **Components**: V, S
+- **Duration**: Instantaneous
+
+You unleash a wave of thunderous energy. Each creature in a 15-foot Cube originating from you makes a Constitution saving throw. On a failed save, a creature takes 2d8 Thunder damage and is pushed 10 feet away from you. On a successful save, a creature takes half as much damage only. 
+
+In addition, unsecured objects that are entirely within the Cube are pushed 10 feet away from you, and a thunderous boom is audible within 300 feet.
+- ***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 1.
