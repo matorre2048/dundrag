@@ -5,6 +5,10 @@
 This is my Digital Garden for my Dungeons and Dragons campaign with Andrea, Molly, Robert, Stephen, and Unity.
 
 Patchnotes:
+v0.1.2
+- Finished adding classes and subclasses used by the party.
+- Added all backgrounds
+- Added Origin Feats and Fighting Style Feats
 v0.1.1
 - Finished adding the primary features of the Barbarian class.
 - Added the Cultist and Survivor backgrounds
