@@ -5,7 +5,7 @@
 Aasimar (pronounce Ah-sih-mar) are mortals who carry a spark of the Upper Planes within their souls. Whether descended from an angelic being or infused with celestial power, they can fan that spark to bring light, healing, and heavenly fury.
 
 Aasimar can arise among any population of mortals. They resemble their parents, but they live for up to 160 years and have features that hint at their celestial heritage, such as metallic freckles, luminous eyes, a halo, or the skin color of an angel (silver, opalescent green, or coppery red). These features start subtle and become obvious when the aasimar learns to reveal their full celestial nature.
-Aasimar Traits
+## Aasimar Traits
 ![Pasted image 20241119100005.png](/img/user/Pasted%20image%2020241119100005.png)
 - **Creature Type:** Humanoid
 - **Size:** Medium (about 4-7 feet tall) or Small (about 2-4 feet tall), chosen when you select this species
