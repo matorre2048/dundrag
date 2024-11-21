@@ -13,7 +13,7 @@ Life in the camp is hard, with limited resources and a lack of clean water. Smok
 People of Interest:
 Smith
 Patrol Captain
-[[Campaign/Encyclopedia/NP Characters/Erynda Vale\|Erynda Vale]], Healer
+Erynda Vale, Healer
 
 
 ![Xiza_Map.png](/img/user/Config/DATA/Image%20Storage/Xiza_Map.png)
