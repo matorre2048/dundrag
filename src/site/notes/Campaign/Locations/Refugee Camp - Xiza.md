@@ -11,9 +11,9 @@ Life in the camp is hard, with limited resources and a lack of clean water. Smok
 
 
 People of Interest:
-Blacksmith
+Smith
 Patrol Captain
-[[Erynda Vale\|Erynda Vale]], Healer
-Ambassador
+[[Campaign/Encyclopedia/NP Characters/Erynda Vale\|Erynda Vale]], Healer
+
 
 ![Xiza_Map.png](/img/user/Config/DATA/Image%20Storage/Xiza_Map.png)
