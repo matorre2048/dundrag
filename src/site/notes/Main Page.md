@@ -10,5 +10,5 @@ Upcoming Dates:
 
 Useful Links:
 - [PHB 5e Revised](https://drive.google.com/file/d/16TtiVujzrAnlb43V-OlDaU38KzficFrC/view?usp=drive_link)
-- [Discord]([(24) Discord | #chat-tavern | Veracitea Community](https://discord.com/channels/697166584845959230/1306298595745730590))
-- [D&D Beyond]([D&D Beyond Character Sheet](https://www.dndbeyond.com/characters?srsltid=AfmBOooQUsH8aHD56ohxvTnZTTYtSqsfW5rE__v12zqhQl5B3N1dzCpy))
+- [Discord](https://discord.com/channels/697166584845959230/1306298595745730590)
+- [D&D Beyond](https://www.dndbeyond.com/characters?srsltid=AfmBOooQUsH8aHD56ohxvTnZTTYtSqsfW5rE__v12zqhQl5B3N1dzCpy)
