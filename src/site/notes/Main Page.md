@@ -4,14 +4,11 @@
 
 This is my Digital Garden for my Dungeons and Dragons campaign with Andrea, Molly, Robert, Stephen, and Unity.
 
-Patchnotes:
-v0.1.2
-- Finished adding classes and subclasses used by the party.
-- Added all backgrounds
-- Added Origin Feats and Fighting Style Feats
-v0.1.1
-- Finished adding the primary features of the Barbarian class.
-- Added the Cultist and Survivor backgrounds
-- Rearranged Species, Classes, and Backgrounds to be within the Character Creation tab
-v0.1
-- Still adding all the base character classes races stuff that the group decided on. 
+Upcoming Dates:
+- December 16th - First Session @ Andrea's 
+	- Please send me your character sheets and backstories before this date
+
+Useful Links:
+- [PHB 5e Revised](https://drive.google.com/file/d/16TtiVujzrAnlb43V-OlDaU38KzficFrC/view?usp=drive_link)
+- [Discord]([(24) Discord | #chat-tavern | Veracitea Community](https://discord.com/channels/697166584845959230/1306298595745730590))
+- [D&D Beyond]([D&D Beyond Character Sheet](https://www.dndbeyond.com/characters?srsltid=AfmBOooQUsH8aHD56ohxvTnZTTYtSqsfW5rE__v12zqhQl5B3N1dzCpy))
