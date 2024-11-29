@@ -4,6 +4,53 @@
 
 The Adventuring Gear table in this section includes gear that adventures often find useful. These items are described here in alphabetical order, with an item's price appearing after its name.
 
+#### Adventuring Gear
+
+| Item                | Weight   | Cost   |     | Item                     | Weight       | Cost     |
+| ------------------- | -------- | ------ | --- | ------------------------ | ------------ | -------- |
+| Acid                | 1 lb.    | 25 GP  |     | Ink Pen                  | --           | 2 CP     |
+| Alchemist's Fire    | 1 lb.    | 50 GP  |     | Jug                      | 4 lb.        | 2 CP     |
+| Ammunition          | Varies   | Varies |     | Ladder                   | 25 lb.       | 1 SP     |
+| Antitoxin           | --       | 50 GP  |     | Lamp                     | 1 lb.        | 1 SP     |
+| Arcane Focus        | Varies   | Varies |     | Lantern, Bullseye        | 2 lb.        | 10 GP    |
+| Backpack            | 5 lb.    | 2 GP   |     | Lantern, Hooded          | 2 lb.        | 5 GP     |
+| Ball Bearings       | 2 lb.    | 1 GP   |     | Lock                     | 1 lb.        | 10 GP    |
+| Barrel              | 70 lb.   | 2 GP   |     | Magnifying Glass         | --           | 100 GP   |
+| Basket              | 2 lb.    | 4 SP   |     | Manacles                 | 6 lb.        | 2 GP     |
+| Bedroll             | 7 lb.    | 1 GP   |     | Map                      | --           | 1 GP     |
+| Bell                | --       | 1 GP   |     | Mirror                   | .5 lb.       | 5 GP     |
+| Blanket             | 3 lb.    | 5 SP   |     | Net                      | 3 lb.        | 1 GP     |
+| Block and Tackle    | 5 lb.    | 1 GP   |     | Oil                      | 1 lb.        | 1 SP     |
+| Book                | 5 lb.    | 25 GP  |     | Paper                    | --           | 2 SP     |
+| Bottle, Glass       | 2 lb.    | 2 GP   |     | Parchment                | --           | 1 SP     |
+| Bucket              | 2 lb.    | 5 CP   |     | Perfume                  | --           | 5 GP     |
+| Burglar's Pack      | 42 lb.   | 16 GP  |     | Poison, Basic            | --           | 100 GP   |
+| Caltrops            | 2 lb.    | 1 GP   |     | Pole                     | 7 lb.        | 5 CP     |
+| Candle              | --       | 1 CP   |     | Pot, Iron                | 10 lb.       | 2 GP     |
+| Case, Crossbow Bolt | 1 lb.    | 1 GP   |     | *Potion of Healing*      | .5 lb.       | 50 GP    |
+| Case, Map or Scroll | 1 lb.    | 1 GP   |     | Pouch                    | 1 lb.        | 5 SP     |
+| Chain               | 10 lb.   | 5 GP   |     | Priest's Pack            | 29 lb.       | 33 GP    |
+| Chest               | 25 lb.   | 5 GP   |     | Quiver                   | 1 lb.        | 1 GP     |
+| Climber's Kit       | 12 lb.   | 25 GP  |     | Ram, Portable            | 35 lb.       | 4 GP     |
+| Clothes' Fine       | 6 lb.    | 15 GP  |     | Rations                  | 2 lb.        | 5 SP     |
+| Clothes, Traveler's | 4 lb.    | 2 GP   |     | Robe                     | 4 lb.        | 1 GP     |
+| Component Pouch     | 2 lb.    | 25 GP  |     | Rope                     | 5 lb.        | 1 GP     |
+| Costume             | 4 lb.    | 5 GP   |     | Sack                     | .5 lb.       | 1 CP     |
+| Crowbar             | 5 lb.    | 2 GP   |     | Scholar's Pack           | 22 lb.       | 40 GP    |
+| Diplomat's Pack     | 39 lb.   | 39 GP  |     | Shovel                   | 5 lb.        | 2 GP     |
+| Druidic Focus       | Varies   | Varies |     | Signal Whistle           | --           | 5 CP     |
+| Dungeoneer's Pack   | 55 lb.   | 12 GP  |     | *Spell Scroll* (Cantrip) | --           | 3 GP     |
+| Entertainer's Pack  | 58.5 lb. | 40 GP  |     | *Spell Scroll* (Level 1) | --           | 50 GP    |
+| Explorer's Pack     | 55 lb.   | 10 GP  |     | Spike's Iron             | 5 lb.        | 1 GP     |
+| Flask               | 1 lb.    | 2 CP   |     | Spyglass                 | 1 lb.        | 1,000 GP |
+| Grappling Hook      | 4 lb.    | 2 GP   |     | String                   | --           | 1 SP     |
+| Healer's Kit        | 3 lb.    | 5 GP   |     | Tent                     | 20 lb.       | 2 GP     |
+| Holy Symbol         | Varies   | Varies |     | Tinderbox                | 1 lb.        | 5 SP     |
+| Holy Water          | 1 lb.    | 25 GP  |     | Torch                    | 1 lb.        | 1 CP     |
+| Hunting             | 25 lb.   | 5 GP   |     | Vial                     | --           | 1 GP     |
+| Ink                 | --       | 10 GP  |     | Waterskin                | 5 lb. (full) | 2 SP     |
+
+
 ---
 ## Acid (25 GP)
 When you take the Attack action, you can replace one of your attacks with throwing a vial of Acid. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 2d6 Acid damage.
