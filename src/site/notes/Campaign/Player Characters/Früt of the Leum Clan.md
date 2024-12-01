@@ -11,6 +11,7 @@ Race: [[Character Creation/Species/Orc\|Orc]]
 | STR     | DEX    | CON     | INT     | WIS     | CHA     |
 | ------- | ------ | ------- | ------- | ------- | ------- |
 | 20 (+5) | 9 (-1) | 17 (+3) | 13 (+1) | 11 (+0) | 10 (+0) |
+
 Max HP: 25
 Initiative: -1
 AC: 12
