@@ -33,8 +33,8 @@ Survival
 
 ### Special Actions: 
 
-[[Character Creation/Species/Orc#Relentless Endurance.\|Orc#Relentless Endurance.]]
-[[Character Creation/Species/Orc#Adrenaline Rush.\|Orc#Adrenaline Rush.]]
+[[Character Creation/Species/Orc#Relentless Endurance.\|Relentless Endurance]]
+[[Character Creation/Species/Orc#Adrenaline Rush.\|Adrenaline Rush]]
 
 ## Backstory
 Früt had a happy childhood for the most part. She always felt safe, included, and excited by life in the horde. Her parents were Hilde and Braug, though she felt as if she had a hundred fathers and mothers, sisters and brothers in the horde.
