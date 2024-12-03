@@ -605,20 +605,241 @@ Channeling the chill of the grave, make a melee spell attack against a target wi
 ***Cantrip Upgrade.*** The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), 17 (4d10).
 
 ---
-## 
-*Level*
-**Casting Time:** 
-**Range:** 
-**Components:** 
-**Duration:** 
+## Chromatic Orb
+*Level 1 Evocation (Sorcerer, Wizard)*
+**Casting Time:** Action
+**Range:** 90 feet
+**Components:** V, S, M (a diamond worth 50+ GP)
+**Duration:** Instantaneous
+
+You hurl an orb of energy at a target within range. Choose Acid, Cold, Fire, Lightning, Poison, or Thunder for the type of orb you create, and then make a ranged spell attack against the target. On a hit, the target takes 3d8 damage of the chosen type.
+
+If you roll the same number on two or more of the d8s, the orb leaps to a different target of your choice within 30 feet of the target. Make an attack roll against the new target, and make a new damage roll. The orb can't leap again unless you cast the spell with a level 2+ spell slot.
+
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 1. The orb can leap a maximum number of times equal to the level of the slot expended, and a creature can be targeted only once by each casting of this spell.
 
 ---
-## 
-*Level*
-**Casting Time:** 
-**Range:** 
-**Components:** 
-**Duration:** 
+## Circle of Death
+*Level 6 Necromancy (Sorcerer, Warlock, Wizard)*
+**Casting Time:** Action
+**Range:** 150 feet
+**Components:** V, S, M (the powder of a crushed black pearl worth 500+ GP)
+**Duration:** Instantaneous
+
+Negative energy ripples out in a 60-foot-radius Sphere from a point you choose within range. Each creature in that area makes a Constitution saving throw, taking 8d8 Necrotic damage on a failed save or half as much damage on a successful one.
+
+***Using a Higher-Level Spell Slot.*** The damage increases by 2d8 for each spell slot level above 6.
+
+---
+## Circle of Power
+*Level 5 Abjuration (Cleric, Paladin, Wizard)*
+**Casting Time:** Action
+**Range:** Self
+**Components:** V
+**Duration:** Concentration, up to 10 minutes
+
+An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Advantage on saving throws against spells and other magical effects. When an affected creature makes a saving throw against a spell or magical effect that allows a save to take only half damage, it takes no damage if it succeeds on the save.
+
+---
+## Clairvoyance
+*Level 3 Divination (Bard, Cleric, Sorcerer, Wizard)*
+**Casting Time:** 10 minutes
+**Range:** 1 mile
+**Components:** V, S, M (a focus worth 100+ GP, either a jeweled horn for hearing or a glass eye for seeing)
+**Duration:** Concentration, up to 10 minutes
+
+You create an Invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The intangible, invulnerable sensor remains in place for the duration.
+
+When you cast the spell, choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As a Bonus Action, you can switch between seeing and hearing.
+
+A creature that sees the sensor (such as a creature benefiting from *See Invisibility* or Truesight) sees a luminous orb about the size of your fist.
+
+---
+## Clone
+*Level 8 Necromancy (Wizard)*
+**Casting Time:** 1 hour
+**Range:** Touch
+**Components:** V, S, M (a diamond worth 1,000+ GP, which the spell consumes, and a sealable vessel worth 2,000+ GP that is large enough to hold the creature being cloned)
+**Duration:** Instantaneous
+
+You touch a creature or at least 1 cubic inch of its flesh. An inert duplicate of that creature forms inside the vessel used in the spell's casting and finishes growing after 120 days; you choose whether the finished clone is the same age as the creature or younger. The clone remains inert and endures indefinitely while its vessel remains undisturbed.
+
+If the original creature dies after the clone finishes forming, the creature's soul transfers to the clone if the soul is free and willing to return. The clone is physically identical to the original and has the same personality, memories, and abilities, but none of the original's equipment. The creature's original remains, if any, become inert and can't be revived, since the creature's soul is elsewhere.
+
+---
+## Cloudkill
+*Level 5 Conjuration (Sorcerer, Wizard)*
+**Casting Time:** Action
+**Range:** 120 feet
+**Components:** V, S
+**Duration:** Concentration, up to 10 minutes
+
+You create a 20-foot-radius Sphere of yellow-green fog centered on a point within range. The fog lasts for the duration or until strong wind (such as the one created by *Gust of Wind*) disperses it, ending the spell. Its area is Heavily Obscured.
+
+Each creature in the Sphere makes a Constitution saving throw, taking 5d8 Poison damage on a failed save or half as much damage on a successful one. A creature must also make this save when the Sphere moves into its space and when it enters the Sphere or ends its turn there. A creature makes this save only once per turn.
+
+The Sphere moves 10 feet away from you at the start of each of your turns.
+
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 5.
+
+---
+## Cloud of Daggers
+*Level 2 Conjuration (Bard, Sorcerer, Warlock, Wizard)*
+**Casting Time:** Action
+**Range:** 60 feet
+**Components:** V, S, M (a silver of glass)
+**Duration:** Concentration, up to 1 minute
+
+You conjure spinning daggers in a 5-foot Cube centered on a point within range. Each creature in that area takes 4d4 Slashing damage. A creature also takes this damage if it enters the Cube or ends its turn there or if the Cube moves into its space. A creature takes this damage only once per turn.
+
+On your later turns, you can take a Magic action to teleport the Cube up to 30 feet. 
+
+***Using a Higher-Level Spell Slot.*** The damage increases by 2d4 for each spell slot level above 2.
+
+---
+## Color Spray
+*Level 1 Illusion (Bard, Sorcerer, Wizard)*
+**Casting Time:** Action
+**Range:** Self
+**Components:** V, S, M (a pinch of colorful sand)
+**Duration:** Instantaneous
+
+You launch a dazzling array of flashing, colorful light. Each creature in a 15-foot Cone originating from you must succeed on a Constitution saving throw or have the Blinded condition until the end of your next turn.
+
+---
+## Command
+*Level 1 Enchantment (Bard, Cleric, Paladin)*
+**Casting Time:** Action
+**Range:** 60 feet
+**Components:** V
+**Duration:** Instantaneous
+
+You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. Choose the command from these options:
+
+- **Approach.** The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.
+- **Drop.** The target drops whatever it is holding and then ends its turn.
+- **Flee.** The target spends its turn moving away from you by the fastest available means.
+- **Grovel.** The target has the Prone condition and then ends its turn.
+- **Halt.** On its turn, the target doesn't move and takes no action or Bonus Action.
+
+***Using a Higher-Level Spell Slot.*** You can affect one additional creature for each spell slot level above 1.
+
+---
+## Commune
+*Level 5 Divination (Cleric)*
+**Casting Time:** 1 minute or Ritual
+**Range:** Self
+**Components:** V, S, M (incense)
+**Duration:** 1 minute
+
+You contact a deity or a divine proxy and ask up to three questions that can be answered with yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question.
+
+Divine beings aren't necessarily omniscient, so you might receive "unclear" as an answer if a question pertains to information that lies beyond the deity's knowledge. In a case where a one-word answer could be misleading or contrary to the deity's interests, the DM might offer a short phrase as an answer instead.
+
+If you cast the spell more than once before finishing a Long Rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer.
+
+---
+## Commune with Nature
+*Level 5 Divination (Druid, Ranger)*
+**Casting Time:** 1 minute or Ritual
+**Range:** Self
+**Components:** V, S
+**Duration:** Instantaneous
+
+You commune with nature spirits and gain knowledge of the surrounding area. In the outdoors, the spell gives you knowledge of the area within 4 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn't function where nature has been replaced by construction, such as castles and settlements.
+
+Choose three of the following facts; you learn those facts as they pertain to the spell's area:
+- Location of settlements
+- Locations of portals to other planes of existence
+- Location of one Challenge Rating 10+ creature (DM's Choice) that is a Celestial, an Elemental, a Fey, a Fiend, or an Undead.
+- The most prevalent kind of plant, mineral, or Beast (you choose which to learn)
+- Locations of bodies of water
+
+For example, you could determine the location of a powerful monster in the area, the locations of bodies of water, and the locations of any towns.
+
+---
+## Compelled Duel
+*Level 1 Enchantment (Paladin)*
+**Casting Time:** Bonus Action
+**Range:** 30 feet
+**Components:** V
+**Duration:** Concentration, up to 1 minute
+
+You try to compel a creature into a duel. One creature that you can see within range makes a Wisdom saving throw. On a failed save, the target has Disadvantage on attack rolls against creatures other than you, and it can' willingly move to a space that is more than 30 feet away from you.
+
+The spell ends if you make an attack roll against a creature other than the target, if you cast a spell on an enemy other than the target, if an ally of yours damages the target, or if you end your turn more than 30 feet away from the target.
+
+---
+## Comprehend Languages
+*Level 1 Divination (Bard, Sorcerer, Warlock, Wizard)*
+**Casting Time:** Action or Ritual
+**Range:** Self
+**Components:** V, S, M (a pinch of soot and salt)
+**Duration:** 1 hour
+
+For the duration, you understand the literal meaning of any language that you hear or see signed. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text. This spell doesn't decode symbols or secret messages.
+
+---
+## Compulsion
+*Level 4 Enchantment (Bard)*
+**Casting Time:** Action
+**Range:** 30 feet
+**Components:** V, S
+**Duration:** Concentration, up to 1 minute
+
+Each creature of your choice that you can see within range must succeed on a Wisdom saving throw or have the Charmed condition until the spell ends.
+
+For the duration, you can take a Bonus Action to designate a direction that is horizontal to you. Each Charmed target must use as much of its movement as possible to move in that direction on its next turn, taking the safest route. After moving in this way, a target repeats the save, ending the spell on itself on a success.
+
+---
+## Cone of Cold
+*Level 5 Evocation (Druid, Sorcerer, Wizard)*
+**Casting Time:** Action
+**Range:** Self
+**Components:** V, S, M (a small crystal or glass cone)
+**Duration:** Instantaneous
+
+You unleash a blast of cold air. Each creature in a 60-foot Cone originating from you make a Constitution saving throw, taking 8d8 Cold damage on a failed save or half as much damage on a successful one. A creature killed by this spell becomes a frozen statue until it thaws.
+
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 5.
+
+---
+## Confusion
+*Level 4 Enchantment (Bard, Druid, Sorcerer, Wizard)*
+**Casting Time:** Action
+**Range:** 90 feet
+**Components:** V, S, M (three nut shells)
+**Duration:** Concentration, up to 1 minute
+
+Each creature in a 10-foot-radius Sphere centered on a point you choose within range must succeed on a Wisdom saving throw, or that target can't take Bonus Action or Reactions and must roll 1d10 at the start of each of its turns to determine its behavior for the turn, consulting the table below
+
+
+| 1d10 | Behavior for the Turn                                                                                                                                                          |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1    | The target doesn't take an action, and it uses all its movement to move. Roll 1d4 for the direction: 1, north; 2, east; 3, south; or 4, west.                                  |
+| 2-6  | The target doesn't move or take actions.                                                                                                                                       |
+| 7-8  | The target doesn't move, and it takes the Attack action to make one melee attack against a random creature within reach. If none are within reach, the target takes no action. |
+| 9-10 | The target chooses its behavior                                                                                                                                                |
+
+At the end of each of its turns, an affected target repeats the save, ending the spell on itself on a success.
+
+***Using a Higher-Level Spell Slot.*** The Sphere's radius increases by 5 feet for each spell slot level above 4.
+
+---
+## Conjure Animals
+*Level 3 Conjuration (Druid, Ranger)*
+**Casting Time:** Action
+**Range:** 60 feet
+**Components:** V, S
+**Duration:** Concentration, up to 10 minutes
+
+You conjure nature spirits that appear as a Large pack of spectral, intangible animals in an unoccupied space you can see within range. The pack lasts for the duration, and you choose the spirts' animal form, such as wolves, serpents, or birds.
+
+You have Advantage on Strength saving throws while you're within 5 feet of the pack, and when you move on  your turn, you can also move the pack up to 30 feet to an unoccupied space you can see.
+
+Whenever the pack moves within 10 feet of a creature you can see and whenever a creature you can see enters a space within 10 feet of the pack or ends its turn there, you can force that creature to make a Dexterity saving throw. On a failed save, the creature takes 3d10 Slashing damage. A creature makes this save only once per turn.
+
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 3.
 
 ---
 ## 
