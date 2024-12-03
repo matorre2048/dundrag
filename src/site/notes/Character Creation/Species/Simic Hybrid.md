@@ -23,14 +23,19 @@ Your hybrid character has the following racial traits.
 
 As an Aasimar, you have these special traits.
    
-   ***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+###### Darkvision. 
+You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
    
-   ***Animal Enhancement.*** Your body has been altered to incorporate certain animal characteristics. You choose one animal enhancement now and a second enhancement at 5th level. 
+###### Animal Enhancement. 
+Your body has been altered to incorporate certain animal characteristics. You choose one animal enhancement now and a second enhancement at 5th level. 
    
 At 1st level, choose one of the following options:
-- **Manta Glide.** You have ray-like fins that you can use as wings to slow your fall or allow you to glide. When you fall and aren't incapacitated, you can subtract up to 100 feet from the fall when calculating falling damage, and you can move up to 2 feet horizontally for every 1 foot you descend.
-- **Nimble Climber.** You have a climbing speed equal to your walking speed.
-- **Underwater Adaptation.** You can breathe air and water, and you have a swimming speed equal to your walking speed. 
+###### Manta Glide. 
+You have ray-like fins that you can use as wings to slow your fall or allow you to glide. When you fall and aren't incapacitated, you can subtract up to 100 feet from the fall when calculating falling damage, and you can move up to 2 feet horizontally for every 1 foot you descend.
+###### Nimble Climber. 
+You have a climbing speed equal to your walking speed.
+###### Underwater Adaptation. 
+You can breathe air and water, and you have a swimming speed equal to your walking speed. 
    
 At 5th level, your body evolves further, developing new characteristics. Choose one of the options you didn't take at 1st level, or one of the following options:
 
