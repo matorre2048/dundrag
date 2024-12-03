@@ -299,6 +299,334 @@ You spend the casting time tracing magical pathways within a precious gemstone, 
 The awakened target has the Charmed condition for 30 days or until you or your allies deal damage to it. When that condition ends, the awakened creature chooses its attitude toward you.
 
 ---
+## Bane
+*Level 1 Enchantment (Bard, Cleric, Warlock)*
+**Casting Time:** Action
+**Range:** 30 feet
+**Components:** V, S, M (a drop of blood)
+**Duration:** Concentration, up to 1 minute
+
+Up to three creatures of your choice that you can see within range must each make a Charisma saving throw. Whenever a target that fails this save makes an attack roll or a saving throw before the spell ends, the target must subtract 1d4 from the attack or save.
+
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot above level 1.
+
+---
+## Banishing Smite
+*Level 5 Conjuration (Paladin)*
+**Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed strike.
+**Range:** Self
+**Component:** V
+**Duration:** Concentration, up to 1 minute
+
+The target hit by the attack roll takes an extra 5d10 Force damage from the attack. If the attack reduces the target to 50 Hit Points or fewer, the target must succeed on a Charisma saving throw or be transported to a harmless demiplane for the duration. While there, the target has the Incapacitated condition. When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
+
+---
+## Banishment
+*Level 4 Abjuration (Cleric, Paladin, Sorcerer, Warlock, Wizard)*
+**Casting Time:** Action
+**Range:** 30 feet
+**Components:** V, S, M (a pentacle)
+**Duration:** Concentration, up to 1 minute
+
+One creature that you can see within range must succeed on a Charisma saving throw or be transported to a harmless demiplane for the duration. While there, the target has the Incapacitated condition. When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
+
+If the target is an Aberration, a Celestial, an Elemental, a Fey, or a Fiend, the target doesn't return if the spell lasts for 1 minute. The target is instead transported to a random location on a plane (DM's choice) associated with its creature type.
+
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 4.
+
+---
+## Barkskin
+*Level 2 Transmutation (Druid, Ranger)*
+**Casting Time:** Bonus Action
+**Range:** Touch
+**Components:** V, S, M (a handful of bark) 
+**Duration:** 1 hour
+
+You touch a willing creature. Until the spell ends, the target's skin assumes a bark-like appearance, and the target has an Armor Class of 17 if its AC is lower than that.
+
+---
+## Beacon of Hope
+*Level 3 Abjuration (Cleric)*
+**Casting Time:** Action
+**Range:** 30 feet
+**Components:** V, S
+**Duration:** Concentration, up to 1 minute
+
+Choose any number of creatures within range. For the duration, each target has Advantage on Wisdom saving throws and Death Saving Throws and regains the maximum number of Hit Points possible from any healing.
+
+---
+## Beast Sense
+*Level 2 Divination (Druid or Ranger)*
+**Casting Time:** Action or Ritual
+**Range:** Touch
+**Components:** S
+**Duration:** Concentration, up to 1 hour
+
+You touch a willing Beast. For the duration, you can perceive through the Beast's senses as well as your own. When perceiving through the Beast's senses, you benefit from any special senses it has.
+
+---
+## Befuddlement
+*Level 8 Enchantment (Bard, Druid, Warlock, Wizard)*
+**Casting Time:** Action
+**Range:** 150 feet
+**Components:** V, S, M (a key ring with no keys)
+**Duration:** Instantaneous
+
+You blast the mind of a creature that you can see within range. The target makes an Intelligence saving throw.
+
+On a failed save, the target takes 10d12 Psychic damage and can't cast spells or take the Magic action. At the end of every 30 days, the target repeats the save, ending the effect on a success. The effect can also be ended by the *Greater Restoration, Heal*, or *Wish* spell.
+
+On a successful save, the target takes half as much damage only.
+
+---
+## Bestow Curse
+*Level 3 Necromancy (Bard, Cleric, Wizard)*
+**Casting Time:** Action
+**Range:** Touch
+**Components:** V, S
+**Duration:** Concentration, up to 1 minute
+
+You touch a creature, which must succeed on a Wisdom saving throw or become cursed for the duration. Until the curse ends, the target suffers one of the following effects of your choice:
+- Choose one ability. The target has Disadvantage on ability checks and saving throws made with that ability.
+- The target has Disadvantage on attack rolls against you.
+- In combat, the target must succeed on a Wisdom saving throw at the start of each of its turns or be forced to take the Dodge action on that turn.
+- If you deal damage to the target with an attack roll or a spell, the target takes an extra 1d8 Necrotic damage.
+
+***Using a Higher-Level Spell Slot.*** If you cast this spell using a level 4 spell slot, you can maintain Concentration on it for up to 10 minutes. If you use a level 5+ spell slot, the spell doesn't require Concentration, and the duration becomes 8 hours (level 5-6 slot) or 24 hours (level 7-8 slot). If you use a level 9 spell slot, the spell lasts until dispelled.
+
+---
+## Bigby's Hand
+*Level 5 Evocation (Sorcerer, Wizard)*
+**Casting Time:** Action
+**Range:** 120 feet
+**Components:** V, S, M (an eggshell and a glove)
+**Duration:** Concentration, up to 1 minute
+
+You create a Large hand of shimmering magical energy in an unoccupied space that you can see within range. The hand lasts for the duration, and it moves at your command, mimicking the movements of your own hand.
+
+The hand is an object that has AC 20 and Hit Points equal to your Hit Point maximum. If it drops to 0 Hit Points, the spell ends. The hand doesn't occupy its space.
+
+When you cast the spell and as a Bonus Action on your later turns, you can move the hand up to 60 feet and then cause one of the following effects:
+
+- **Clenched Fist.** The hand strikes a single target within 5 feet of it. Make a melee spell attack. On a hit, the target takes 5d8 Force damage.
+- **Forceful Hand.** The hand attempts to push a Huge or smaller creature within 5 feet of it. The target must succeed on a Strength saving throw, or the hand pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier. The hand moves with the target, remaining within 5 feet of it.
+- **Grasping Hand.** The hand attempts to grapple a Huge or smaller creature within 5 feet of it. The target must succeed on a Dexterity saving throw, or the target has the Grappled condition, with an escape DC equal to your spell save DC. While the hand grapples the target, you can take a Bonus Action to cause the hand to crush it, dealing Bludgeoning damage to the target equal to 4d6 plus your spellcasting ability modifier.
+- **Interposing Hand.** The hand grants you Half Cover against attacks and other effects that originate from its space or that pass through it. In addition, its space counts as Difficult Terrain for your enemies.
+
+***Using a Higher-Level Spell Slot.*** The damage of the Clenched Fist increases by 2d8 and the damage of the Grasping Hand increases by 2d6 for each spell slot level above 5.
+
+---
+## Blade Barrier
+*Level 6 Evocation (Cleric)*
+**Casting Time:** Actionm
+**Range:** 90 feet
+**Components:** V, S
+**Duration:** Concentration, up to 10 minutes
+
+You create a wall of whirling blades made of magical energy. The wall appears within range and lasts for the duration. You make a straight wall up to 100 feet long, 20 feet high, and 5 feet thick, or a ringed wall up to 60 feet in diameter, 20 feet high, and 5 feet thick. The wall provides Three-Quarters Cover, and its space is Difficult Terrain.
+
+Any creature in the wall's space makes A Dexterity saving throw, taking 6d10 Force damage on a failed save or half as much damage on a successful one. A Creature also makes that save if it enters the wall's space or ends it turn there. A creature makes that save only once per turn.
+
+---
+## Blade Ward
+*Abjuration Cantrip (Bard, Sorcerer, Warlock, Wizard)*
+**Casting Time:** Action
+**Range:** Self
+**Components:** V, S
+**Duration:** Concentration, up to 1 minute
+
+Whenever a creature makes an attack roll against you before the spell ends, the attacker subtracts 1d4 from the attack roll.
+
+---
+## Bless
+*Level 1 Enchantment (Cleric, Paladin)*
+**Casting Time:** Action
+**Range:** 30 feet
+**Components:** V, S, M (a Holy Symbol worth 5+ GP)
+**Duration:** Concentration, up to 1 minute
+
+You bless up to three creatures within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target adds 1d4 to the attack roll or save.
+
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
+
+---
+## Blight
+*Level 4 Necromancy (Druid, Sorcerer, Warlock, Wizard)*
+**Casting Time:** Action
+**Range:** 30 feet
+**Components:** V, S
+**Duration:** Instantaneous
+
+A creature that you can see within range makes a Constitution saving throw, taking 8d8 Necrotic damage on a failed save or half as much damage on a successful one. A Plant creature automatically fails the save.
+
+Alternatively, target a nonmagical plant that isn't a creature, such as a tree or shrub. It doesn't make a save; it simply withers and dies.
+
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d8 for each spell slot level above 4.
+
+---
+## Blinding Smite
+*Level 3 Evocation (Paladin)*
+**Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed strike
+**Range:** Self
+**Components:** V 
+**Duration:** 1 minute
+
+The target hit by the strike takes an extra 3d8 Radiant damage from the attack, and the target has the Blinded condition until the spell ends. At the end of each of its turns, the Blinded target makes a Constitution saving throw, ending the spell on itself on a success.
+
+***Using a Higher-Level Spell Slot.*** The extra damage increases by 1d8 for each spell slot level above 3.
+
+---
+## Blindness/Deafness
+*Level 2 Transmutation (Bard, Cleric, Sorcerer, Wizard)*
+**Casting Time:** Action
+**Range:** 120 feet
+**Components:** V
+**Duration:** 1 minute
+
+One creature that you can see within range must succeed on a Constitution saving throw, or it has the Blinded or Deafened condition (your choice) for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
+
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 2.
+
+---
+## Blink
+*Level 3 Transmutation (Sorcerer, Wizard)*
+**Casting Time:** Action
+**Range:** Self
+**Components:** V, S
+**Duration:** 1 minute
+
+Roll 1d6 at the end of each of your turns for the duration. On a roll of 4-6, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell ends instantly if you are already on that plane). While on the Ethereal Plane, you can perceive the plane you left, which is cast in shades of gray, but you can't see anything there more than 60 feet away. You can affect and be affected only by other creatures on the Ethereal Plane, and creatures on the other plane can't perceive you unless they have a special ability that lets them perceive things on the Ethereal Plane.
+
+You return to the other plane at the start of your next turn and when the spell ends if you are on the Ethereal Plane. You return to an unoccupied space of your choice that you can see within 10 feet of the space you left. If no unoccupied space is available within that range, you appear in the nearest unoccupied space.
+
+---
+## Blur
+*Level 2 Illusion (Sorcerer, Wizard)*
+**Casting Time:** Action
+**Range:** Self
+**Components:** V
+**Duration:** Concentration, up to 1 minute
+
+Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you. An attacker is immune to this effect if it perceives you with Blindsight or Truesight.
+
+---
+## Burning Hands
+*Level 1 Evocation (Sorcerer, Wizard)*
+**Casting Time:** Actionm
+**Range:** Self
+**Components:** V, S
+**Duration:** Instantaneous
+
+A thin sheet of flames shoots forth from you. Each creature in a 15-foot Cone makes a Dexterity saving throw, taking 3d6 Fire damage on a failed save or half as much damage on a successful one.
+
+Flammable objects in the Cone that aren't being worn or carried start burning.
+
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d6 for each spell slot level above 1.
+
+---
+## Call Lightning
+*Level 3 Conjuration (Druid)*
+**Casting Time:** Action
+**Range:** 120 feet
+**Components:** V, S
+**Duration:** Concentration, up to 10 minutes
+
+A storm cloud appears at a point within range that you can see above yourself. It takes the shape of a Cylinder that is 10 feet tall with a 60-foot radius.
+
+When you cast the spell, choose a point you can see under the cloud. A lightning bolt shoots from the cloud to that point. Each creature within 5 feet of that point makes a Dexterity saving throw, taking 3d10 Lightning damage on a failed save or half as much damage on a successful one.
+
+Until the spell ends, you can take a Magic action to call down lightning in that way again, targeting the same point or a different one.
+
+If you're outdoors in a storm when you cast this spell, the spell gives you control over that storm instead of creating a new one. Under such conditions, the spell's damage increases by 1d10.
+
+***Using a Higher-Level Spell Slot.*** The damage increases by 1d10 for each spell slot level above 3.
+
+---
+## Calm Emotions
+*Level 2 Enchantment (Bard, Cleric)*
+**Casting Time:** Action
+**Range:** 60 feet
+**Components:** V, S
+**Duration:** Concentration, up to 1 minute
+
+Each Humanoid in a 20-foot-radius Sphere centered on a point you choose within range must succeed on a Charisma saving throw or a be affected by one of the following effects (choose for each creature):
+
+- The creature has Immunity to the Charmed and Frightened conditions until the spell ends. If the creature was already Charmed or Frightened, those conditions are suppressed for the duration.
+- The creature becomes Indifferent about creatures of your choice that it's Hostile toward. This indifference ends if the target takes damage or witnesses its allies taking damage. When the spell ends, the creature's attitude returns to normal.
+
+---
+## Chain Lightning
+*Level 6 Evocation (Sorcerer, Wizard)*
+**Casting Time:** Action
+**Range:** 150 feet
+**Components:** V, S, M (three silver pins)
+**Duration:** Instantaneous
+
+You launch a lightning bolt toward a target you can see within range. Three bolts then leap from that target to as many as three other targets of your choice, each of which must be within 30 feet of the first target. A target can be a creature or an object and can be targeted by only one of the bolts.
+
+Each target makes a Dexterity saving throw, taking 10d8 Lightning damage on a failed save or half as much damage on a successful one.
+
+***Using a Higher-Level Spell Slot.*** One additional bolt leaps from the first target to another target for each spell slot level above 6.
+
+---
+## Charm Monster
+*Level 4 Enchantment (Bard, Druid, Sorcerer, Warlock, Wizard)*
+**Casting Time:** Action
+**Range:** 30 feet
+**Components:** V, S
+**Duration:** 1 hour
+
+One creature you can see within range makes a Wisdom saving throw. It does so with Advantage if you or your allies are fighting it. On a failed save, the target has the Charmed condition until the spell ends or until you or your allies damage it. The Charmed creature is Friendly to you. When the spell ends, the target knows it was Charmed by you.
+
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 4.
+
+---
+## Charm Person
+*Level 1 Enchantment (Bard, Druid, Sorcerer, Warlock, Wizard*
+**Casting Time:** Action
+**Range:** 30 feet
+**Components:** V, S
+**Duration:** 1 hour
+
+One Humanoid you can see within range makes a Wisdom saving throw. It does so with Advantage if you or your allies fighting it. On a failed save, the target has the Charmed condition until the spell ends or until you or your allies damage it. The Charmed creature is Friendly to you. When the spell ends, the target knows it was Charmed by you.
+
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
+
+---
+## Chill Touch
+*Necromancy Cantrip (Sorcerer, Warlock, Wizard)*
+**Casting Time:** Action 
+**Range:** Touch
+**Components:** V, S
+**Duration:** Instantaneous
+
+Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes 1d10 Necrotic damage, and it can't regain Hit Points until the end of your next turn.
+
+***Cantrip Upgrade.*** The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), 17 (4d10).
+
+---
+## 
+*Level*
+**Casting Time:** 
+**Range:** 
+**Components:** 
+**Duration:** 
+
+---
+## 
+*Level*
+**Casting Time:** 
+**Range:** 
+**Components:** 
+**Duration:** 
+
+---
+## 
+*Level*
+**Casting Time:** 
+**Range:** 
+**Components:** 
+**Duration:** 
 ## Cure Wounds
 *Level 1 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)*
 - **Casting Time:** Action
