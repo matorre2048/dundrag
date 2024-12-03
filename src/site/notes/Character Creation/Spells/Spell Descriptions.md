@@ -7,7 +7,7 @@
 **Casting Time:** Action
 **Range**: 60 feet
 **Components**: V, S
-**Duration**: Instantaneous
+C**Duration**: Instantaneous
 
 You create an acidic bubble at a point within range, where it explodes in a 5-foot-radius Sphere. Each creature in that Sphere must succeed on a Dexterity saving throw or take 1d6 Acid damage.
 
@@ -890,6 +890,18 @@ Alternatively, you cast the spell on an object that isn't being worn or carried,
 If any of this spell's area overlaps with an area of Bright Light or Dim Light created by a spell of level 2 or lower, that other spell is dispelled.
 
 ---
+## Detect Magic
+*Level 1 Divination (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)*
+**Casting Time:** Action or Ritual
+**Range:** Self
+**Components:** V, S 
+**Duration:** Concentration, up to 10 minutes
+
+For the duration, you sense the presence of magical effects, you can take the Magic action to see a faint aura around any visible creature or object in the area that bears the magic, and if an effect was created by a spell, you learn the spell's school of magic.
+
+The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
+
+---
 ## Druidcraft
 *Transmutation Cantrip (Druid)*
 **Casting Time:** Action
@@ -916,6 +928,28 @@ Objects in a 20-foot Cube within range are outlined in blue, green, or violet li
 Attack rolls against an affected creature or object have Advantage if the attacker can see it.
 
 ---
+## Guidance
+*Divination Cantrip (Cleric, Druid)*
+**Casting Time:** Action
+**Range:** Touch
+**Components:** V, S
+**Duration:** Concentration, up to 1 minute
+
+You touch a willing creature and choose a skill. Until the spell ends, the creature adds 1d4 to any ability check using the chosen skill
+
+---
+## Gust
+*Transmutation Cantrip*
+**Casting Time:** Action
+**Range:** 30 feet
+**Components:** V, S
+**Duration:** Instantaneous
+You seize the air and compel it to create one of the following effects at a point you can see within range;
+- One medium or smaller creature that you choose must succeed on a Strength saving throw or be pushed up to 5 feet away from you.
+- You create a small blast of air capable of moving one object that is neither held nor carried and that weighs no more than 5 pounds. The object is pushed up to 10 feet away from you. It isn't pushed with enough force to cause damage.
+- You create a harmless sensory effect using air, such as causing leaves to rustle, wind to slam, shutters to shut, or your clothing to ripple in a breeze.
+
+---
 ## Hunter's Mark
 *Level 1 Divination (Ranger)*
 **Casting Time:** Bonus Action
@@ -930,6 +964,18 @@ If the target drops to 0 Hit Points before this spell ends, you can take a Bonus
 ***Using a Higher-Level Spell Slot.*** Your Concentration can last longer with a spell slot of level 3-4 (up to 8 hours) or 5+ (up to 24 hours).
 
 ---
+## Jump
+*Level 1 Transmutation (Druid, Ranger, Sorcerer Wizard)*
+**Casting Time:** Bonus Action
+**Range:** Touch
+**Components:** V, S, M (a grasshopper's hind leg) 
+**Duration:** 1 minute
+
+You touch a willing creature. Once on each of its turns until the spell ends, that creature can jump up to 30 feet by spending 10 feet of movement.
+
+***Using a Higher-Level Spell Slot.*** You can target one additional creature for each spell slot level above 1.
+
+---
 ## Light
 *Evocation Cantrip (Bard, Cleric, Sorcerer, Wizard)*
 **Casting Time:** Action
@@ -940,6 +986,28 @@ If the target drops to 0 Hit Points before this spell ends, you can take a Bonus
 You touch one Large or smaller object that isn't being worn or carried by someone else. Until the spell ends, the object sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. The light can be colored as you like. 
 
 Covering the object with something opaque blocks the light. The spell ends if you cast it again.
+
+---
+## Mage Armor
+*Level 1 Abjuration (Sorcerer, Wizard)*
+**Casting Time:** Action
+**Range:** Touch
+**Components:** V, S, M (a piece of cured leather) 
+**Duration:** 8 hours
+
+You touch a willing creature who isn't wearing armor. Until the spell ends, the target's base AC becomes 13 plus its Dexterity modifier. The spell ends early if the target dons armor.
+
+---
+## Mending
+*Transmutation Cantrip (Bard, Cleric, Druid, Sorcerer, Wizard)*
+**Casting Time:** 1 minute
+**Range:** Touch
+**Components:** V, S, M (two lodestones)
+**Duration:** Instantaneous
+
+This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.
+
+This spell can physically repair a magic item, but it can't restore magic to such an object.
 
 ---
 ## Prestidigitation
@@ -972,6 +1040,16 @@ Until the spell ends, you can take a Magic action to hurl fire at a creature or 
 ***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8). 
 
 ---
+## Shield
+*Level 1 Abjuration (Sorcerer, Wizard)*
+**Casting Time:** Reaction, which you take when you are hit by an attack roll or targeted by the *Magic Missile* spell
+**Range:** Self
+**Components:** V, S 
+**Duration:** 1 round
+
+An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from *Magic Missile.*
+
+---
 ## Shocking Grasp
 *Evocation Cantrip (Sorcerer, Wizard)*
 **Casting Time:** Action
@@ -996,6 +1074,18 @@ You cast sorcerous energy at one creature or object within range. Make a ranged 
 If you roll an 8 on a d8 for this spell, you can roll another d8, and add it to the damage. When you cast this spell, the maximum number of these d8s you can add to the spell's damage equals your spellcasting ability modifier.
 
 ***Cantrip Upgrade.*** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
+
+---
+## Spare the Dying
+*Necromancy Cantrip*
+**Casting Time:** Action
+**Range:** 15 feet
+**Components:** V, S
+**Duration:** Instantaneous
+
+Choose a creature within range that has 0 Hit Points and isn't dead. The creature becomes Stable.
+
+***Cantrip Upgrade.*** The range doubles when reach levels 5 (30 feet), 11 (60 feet) and 17 (120 feet).
 
 ---
 ## Speak With Animals
